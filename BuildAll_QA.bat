@@ -1,0 +1,1 @@
+call "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe" "C:\Dev\VetMedStat\Solutions\VMSClient\Working\VMSWebClient.sln" /p:Configuration=QA

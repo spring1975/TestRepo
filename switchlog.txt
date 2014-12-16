@@ -1,0 +1,2097 @@
+CommonLibraries 
+At revision 9790.
+DicomServer 
+At revision 9790.
+VetMedStat_rc 
+At revision 9790.
+VMS1 
+D    VMS1\working\img\thumbnail-pdf.gif
+D    VMS1\working\img\thumbnail-err.gif
+D    VMS1\working\img\thumbnail-ecg.gif
+D    VMS1\working\img\thumbnail-fax.gif
+D    VMS1\working\img\thumbnail-txt.gif
+D    VMS1\working\img\thumbnail-vid.gif
+D    VMS1\working\img\thumbnail-pen.gif
+D    VMS1\working\img\thumbnail-dcm.gif
+D    VMS1\working\img\thumbnail-img.gif
+U    VMS1\working\js\jquery\jquery.vmsBgIframe.js
+U    VMS1\working\js\report_save.js
+A    VMS1\working\Resources.rc
+A    VMS1\working\Config Transforms
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\progress_xupload_test.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\progress_xupload.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\connection.udl
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\Connections
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\Connections\Data.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\default_old2.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\default_old3.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\progress_xupload_production.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\testdownload.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\webstat_test.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\default_temp.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\aetitles.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\reports
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\reports\default.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\progress_xupload_save.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\timeentry.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\vdic.ini
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\default.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\default_log.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\default_profiler.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\testTrans.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\testdownload2.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\img
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\img\Vetmedstat_head.jpg
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\img\logo.gif
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\default_timeout.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\vmsLegacy.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Dev\debugMacros.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Release
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\progress_xupload_test.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\progress_xupload.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\connection.udl
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\Connections
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\Connections\Data.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\default_old2.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\default_old3.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\progress_xupload_production.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\testdownload.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\webstat_test.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\default_temp.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\aetitles.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\reports
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\reports\default.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\progress_xupload_save.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\timeentry.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\vdic.ini
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\default.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\default_log.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\default_profiler.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\testTrans.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\testdownload2.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\default_timeout.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\vmsLegacy.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center Release\debugMacros.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center QA
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\progress_xupload_test.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\progress_xupload.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\connection.udl
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\Connections
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\Connections\Data.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\default_old2.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\default_old3.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\progress_xupload_production.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\testdownload.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\webstat_test.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\default_temp.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\aetitles.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\reports
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\reports\default.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\progress_xupload_save.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\timeentry.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\vdic.ini
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\default.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\default_log.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\default_profiler.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\testTrans.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\testdownload2.asp
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\default_timeout.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\vmsLegacy.ASP
+A    VMS1\working\Config Transforms\IDEXX Data Center QA\debugMacros.asp
+U    VMS1\working\VDICWebstat.vbw
+A    VMS1\working\DeployRelease.bat
+U    VMS1\working\ConsultationReportEdit.htm
+Updated to revision 9790.
+VMSAdmin 
+A    VMSAdmin\working\VMS Admin UI\Web.QA.config
+A    VMSAdmin\working\VMS Admin UI\Web.Release.config
+A    VMSAdmin\working\VMS Admin UI\Web.Debug.config
+U    VMSAdmin\working\VMS Admin UI\VMS Admin UI.csproj
+A    VMSAdmin\working\VMS Admin UI\Web.config
+A    VMSAdmin\working\VMS Admin UI\Web.Dev.config
+ U   VMSAdmin\working\VMS Admin UI
+U    VMSAdmin\working\packages\repositories.config
+Updated to revision 9790.
+VMSClient 
+U    VMSClient\working\VMSClientUI.p\Old_App_Code\Base.cs
+U    VMSClient\working\VMSClientUI.p\Global.asax.cs
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\bootstrapper.min.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\bootstrapper.min.js.map
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\legacySiteHacks.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\bootstrapper.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\modelmapper.min.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.specialist.min.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\modelmapper.min.js.map
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.specialist.min.js.map
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\modelmapper.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\legacySiteHacks.min.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\legacySiteHacks.min.js.map
+U    VMSClient\working\VMSClientUI.p\Scripts\vms.medications-v1.js
+A    VMSClient\working\VMSClientUI.p\Scripts\sammy-0.7.4.js
+U    VMSClient\working\VMSClientUI.p\Scripts\vmsidx.utils.js
+A    VMSClient\working\VMSClientUI.p\Scripts\sammy-0.7.4.min.js
+A    VMSClient\working\VMSClientUI.p\Scripts\anytime.js
+U    VMSClient\working\VMSClientUI.p\employee-help\whatsnew820.html
+U    VMSClient\working\VMSClientUI.p\employee-help\faq.html
+U    VMSClient\working\VMSClientUI.p\Web.config
+U    VMSClient\working\VMSClientUI.p\ReportGeneratorResult.aspx
+A    VMSClient\working\VMSClientUI.p\Areas\admin
+A    VMSClient\working\VMSClientUI.p\Areas\admin\adminAreaRegistration.cs
+A    VMSClient\working\VMSClientUI.p\Areas\admin\Models
+A    VMSClient\working\VMSClientUI.p\Areas\admin\Controllers
+A    VMSClient\working\VMSClientUI.p\Areas\admin\Views
+A    VMSClient\working\VMSClientUI.p\Areas\admin\Views\Web.config
+A    VMSClient\working\VMSClientUI.p\Areas\admin\Views\Shared
+A    VMSClient\working\VMSClientUI.p\Areas\api\Controllers\DownloaderCaseController.cs
+U    VMSClient\working\VMSClientUI.p\Areas\api\Controllers\AttachmentsProgressController.cs
+A    VMSClient\working\VMSClientUI.p\Areas\api\Controllers\DownloaderImagesController.cs
+A    VMSClient\working\VMSClientUI.p\Areas\support
+A    VMSClient\working\VMSClientUI.p\Areas\support\Models
+A    VMSClient\working\VMSClientUI.p\Areas\support\Models\ServerEnviornment.cs
+A    VMSClient\working\VMSClientUI.p\Areas\support\Models\DownloaderStatusDetailsViewModel.cs
+A    VMSClient\working\VMSClientUI.p\Areas\support\Models\DownloaderCaseViewModel.cs
+A    VMSClient\working\VMSClientUI.p\Areas\support\Models\DownloaderImagesDetailsViewModel.cs
+A    VMSClient\working\VMSClientUI.p\Areas\support\Models\DownloaderStatusesViewModel.cs
+A    VMSClient\working\VMSClientUI.p\Areas\support\supportAreaRegistration.cs
+A    VMSClient\working\VMSClientUI.p\Areas\support\Controllers
+A    VMSClient\working\VMSClientUI.p\Areas\support\Controllers\HomeController.cs
+A    VMSClient\working\VMSClientUI.p\Areas\support\Controllers\DownloaderStatusesController.cs
+A    VMSClient\working\VMSClientUI.p\Areas\support\Controllers\ImageProcessingController.cs
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\modelmapper.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\config.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\vm.downloaderCase.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\datacontext.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\downloaderClients.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\vm.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\main-QA.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\dataservice.downloaderCase.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\main.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\bootstrapper.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\dataprimer.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\dataservice.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\main-Dev.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\main-Release.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\ko.bindingHandlers.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Scripts\binder.js
+A    VMSClient\working\VMSClientUI.p\Areas\support\Content
+A    VMSClient\working\VMSClientUI.p\Areas\support\Content\css
+A    VMSClient\working\VMSClientUI.p\Areas\support\Content\css\support.less
+A    VMSClient\working\VMSClientUI.p\Areas\support\Content\css\support.css
+A    VMSClient\working\VMSClientUI.p\Areas\support\Content\css\support.min.css
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\ImageProcessing
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\ImageProcessing\Index.cshtml
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\ImageProcessing\ImageProcessingList.cshtml
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\_ViewStart.cshtml
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\Web.config
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\Shared
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\Shared\_Layout.cshtml
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\Shared\Partial1.cshtml
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\Home
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\Home\Index.cshtml
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\DownloaderStatuses
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\DownloaderStatuses\DownloaderCaseList.cshtml
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\DownloaderStatuses\Index.cshtml
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\DownloaderStatuses\ImageDetails.cshtml
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\DownloaderStatuses\DownloaderClientsList.cshtml
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\DownloaderStatuses\DownloaderImagesList.cshtml
+A    VMSClient\working\VMSClientUI.p\Areas\support\Views\DownloaderStatuses\Details.cshtml
+U    VMSClient\working\VMSClientUI.p\VMSClientUI.csproj
+U    VMSClient\working\VMSClientUI.p\App_Start\BundleConfig.cs
+U    VMSClient\working\VMSClientUI.p\Web.Release.config
+U    VMSClient\working\VMSClientUI.p\packages.config
+U    VMSClient\working\VMSClientUI.p\ReportGeneratorSelect.aspx
+A    VMSClient\working\VMSClientUI.p\ClassDiagram1.cd
+U    VMSClient\working\VMSClientUI.p\UserControls\ucQuestionTable.ascx.designer.cs
+A    VMSClient\working\VMSClientUI.p\Content\css\anytime.css
+U    VMSClient\working\VMSClient.Downloader\VMSClient.Downloader.csproj
+U    VMSClient\working\VMSClient.Downloader\App.Release.config
+A    VMSClient\working\packages\SlowCheetah.2.5.10.3
+A    VMSClient\working\packages\SlowCheetah.2.5.10.3\tools
+A    VMSClient\working\packages\SlowCheetah.2.5.10.3\tools\Microsoft.Web.XmlTransform.dll
+A    VMSClient\working\packages\SlowCheetah.2.5.10.3\tools\Install.ps1
+A    VMSClient\working\packages\SlowCheetah.2.5.10.3\tools\SlowCheetah.NuGet.template.proj
+A    VMSClient\working\packages\SlowCheetah.2.5.10.3\tools\SlowCheetah.Transforms.targets
+A    VMSClient\working\packages\SlowCheetah.2.5.10.3\tools\SlowCheetah.Xdt.dll
+A    VMSClient\working\packages\SlowCheetah.2.5.10.3\content
+A    VMSClient\working\packages\SlowCheetah.2.5.10.3\content\Properties
+A    VMSClient\working\packages\SlowCheetah.2.5.10.3\content\Properties\SlowCheetah
+A    VMSClient\working\packages\SlowCheetah.2.5.10.3\content\Properties\SlowCheetah\SlowCheetah.Transforms.targets
+A    VMSClient\working\packages\SlowCheetah.2.5.10.3\SlowCheetah.2.5.10.3.nupkg
+A    VMSClient\working\packages\Sammy.js.0.7.4
+A    VMSClient\working\packages\Sammy.js.0.7.4\Tools
+A    VMSClient\working\packages\Sammy.js.0.7.4\Tools\install.ps1
+A    VMSClient\working\packages\Sammy.js.0.7.4\Tools\common.ps1
+A    VMSClient\working\packages\Sammy.js.0.7.4\Tools\uninstall.ps1
+A    VMSClient\working\packages\Sammy.js.0.7.4\Sammy.js.0.7.4.nuspec
+A    VMSClient\working\packages\Sammy.js.0.7.4\Sammy.js.0.7.4.nupkg
+A    VMSClient\working\packages\Sammy.js.0.7.4\Content
+A    VMSClient\working\packages\Sammy.js.0.7.4\Content\Scripts
+A    VMSClient\working\packages\Sammy.js.0.7.4\Content\Scripts\sammy-0.7.4.js
+A    VMSClient\working\packages\Sammy.js.0.7.4\Content\Scripts\sammy-0.7.4.min.js
+U    VMSClient\working\VMSClientBL\VMSEnums.cs
+U    VMSClient\working\VMSClientBL\VmsClientBL.csproj
+U    VMSClient\working\VMSClientBL\DownloaderClientBase.cs
+U    VMSClient\working\VMSClientBL\DownloaderClient.cs
+A    VMSClient\working\VMSClientBL\Models
+A    VMSClient\working\VMSClientBL\Models\DownloaderCaseDetailsViewModel.cs
+A    VMSClient\working\VMSClientBL\Models\ImageProcessingQueueViewModel.cs
+A    VMSClient\working\VMSClientBL\Models\DownloaderImageModel.cs
+A    VMSClient\working\VMSClientBL\Models\DownloaderClientBaseViewModel.cs
+A    VMSClient\working\VMSClientBL\Models\DownloaderStatusesViewModel.cs
+A    VMSClient\working\VMSClientBL\Models\DownloaderClientViewModel.cs
+A    VMSClient\working\VMSClientBL\Models\DownloadsStatusViewModel.cs
+U    VMSClient\working\VMSClientBL\Employee.cs
+A    VMSClient\working\VMSClientBL\ClassDiagram1.cd
+U    VMSClient\working\VMSClientBL\VMSLogin.cs
+U    VMSClient\working\VMSClientBL\DLInterfaces\IEmployeeDao.cs
+A    VMSClient\working\VMSClientBL\DLInterfaces\IImageProcessingQueueDao.cs
+A    VMSClient\working\VMSClientBL\DLInterfaces\IDownloaderCaseDao.cs
+U    VMSClient\working\VMSClientBL\DLInterfaces\IDownloaderImageDao.cs
+U    VMSClient\working\VMSClientBL\DLInterfaces\IDLFactory.cs
+A    VMSClient\working\VMSClientBL\DLInterfaces\IDownloaderStatuesQueueDao.cs
+A    VMSClient\working\VMSClientDL\app.QA.config
+A    VMSClient\working\VMSClientDL\app.ReleaseFor64.config
+U    VMSClient\working\VMSClientDL\DownloaderClientDat.cs
+U    VMSClient\working\VMSClientDL\SpecialistDat.cs
+A    VMSClient\working\VMSClientDL\app.32bit Release.config
+U    VMSClient\working\VMSClientDL\packages.config
+U    VMSClient\working\VMSClientDL\VmsClientDL.csproj
+A    VMSClient\working\VMSClientDL\app.Release (x64).config
+A    VMSClient\working\VMSClientDL\DownloaderCaseDat.cs
+U    VMSClient\working\VMSClientDL\SqlStatement.cs
+A    VMSClient\working\VMSClientDL\DataMappers\DownloaderCaseDetailsViewModelDataMapper.cs
+A    VMSClient\working\VMSClientDL\DataMappers\DownloaderImageDataMapper.cs
+A    VMSClient\working\VMSClientDL\DataMappers\ImageProcessingQueueDataMapper.cs
+A    VMSClient\working\VMSClientDL\DataMappers\DownloaderClientViewModelDataMapper.cs
+A    VMSClient\working\VMSClientDL\DataMappers\EmployeeViewModelDataMapper.cs
+A    VMSClient\working\VMSClientDL\app.Release.config
+A    VMSClient\working\VMSClientDL\app.Debug.config
+U    VMSClient\working\VMSClientDL\app.config
+A    VMSClient\working\VMSClientDL\DownloaderStatusesDat.cs
+A    VMSClient\working\VMSClientDL\Properties\SlowCheetah
+A    VMSClient\working\VMSClientDL\Properties\SlowCheetah\SlowCheetah.Transforms.targets
+A    VMSClient\working\VMSClientDL\app.Dev.config
+U    VMSClient\working\VMSClientDL\EmployeeDat.cs
+A    VMSClient\working\VMSClientDL\ImageProcessingQueueDat.cs
+U    VMSClient\working\VMSClientDL\DLFactory.cs
+U    VMSClient\working\VMSClientDL\DownloaderImageDat.cs
+U    VMSClient\working\VMSClient.Common\AssemblyInfo.cs
+A    VMSClient\working\ExternalResouces\X86\System.Web.Helpers.dll
+U    VMSClient\working\VMSClientDL.Testing\DownlaoderClientDlTests.cs
+U    VMSClient\working\VMSWebClient.sln.DotSettings
+U    VMSClient\working\VMSClient.Imaging.Converters.DicomObjects\DicomConverter.cs
+Updated to revision 9790.
+VMSDatabase 
+U    VMSDatabase\working\ordered_scripts.txt
+U    VMSDatabase\working\Stored Procedures\Reports\rpt_sp_SpecialistProductivityAUP.sql
+U    VMSDatabase\working\Stored Procedures\rpt_sp_image_processing_queue_times.sql
+A    VMSDatabase\working\Stored Procedures\rpt_sp_downloader_client_details.sql
+U    VMSDatabase\working\Stored Procedures\cw_worklist_get_with_internal_notes.sql
+U    VMSDatabase\working\Stored Procedures\cw_specialist_get.sql
+A    VMSDatabase\working\Stored Procedures\rpt_sp_downloader_clients.sql
+A    VMSDatabase\working\Stored Procedures\rpt_sp_downloader_client_cases.sql
+U    VMSDatabase\working\Stored Procedures\cw_worklist_get.sql
+A    VMSDatabase\working\Stored Procedures\rpt_sp_recent_downloads.sql
+D    VMSDatabase\working\Release Specific Scripts\8.2.0PS.sql
+A    VMSDatabase\working\Release Specific Scripts\8.2.0.sql
+A    VMSDatabase\working\Release Specific Scripts\AnalysisSubTypeAbbreviations.sql
+A    VMSDatabase\working\Release Specific Scripts\8.2.0PS_Cardiology_INboxes.sql
+Updated to revision 9790.
+VMSIntegrations 
+U    VMSIntegrations\working\FormsTest\FormsTest.csproj
+U    VMSIntegrations\working\VDIC.Integration.sln
+   C VMSIntegrations\working\VDIC.Integration.MockSAPReceptor\Properties\PublishProfiles
+   A VMSIntegrations\working\VDIC.Integration.MockSAPReceptor\Properties\PublishProfiles\Roger-Dev.pubxml
+   A VMSIntegrations\working\VDIC.Integration.MockSAPReceptor\Properties\PublishProfiles\Roger-QA.pubxml.user
+   A VMSIntegrations\working\VDIC.Integration.MockSAPReceptor\Properties\PublishProfiles\Roger-QA.pubxml
+   A VMSIntegrations\working\VDIC.Integration.MockSAPReceptor\Properties\PublishProfiles\buildMachine.pubxml
+   A VMSIntegrations\working\VDIC.Integration.MockSAPReceptor\Properties\PublishProfiles\Roger-Dev.pubxml.user
+A    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\Properties\PublishProfiles\buildMachine.pubxml
+Updated to revision 9790.
+Summary of conflicts:
+  Tree conflicts: 1
+VMSViewer 
+D    VMSViewer\working\VMSViewer
+A    VMSViewer\working\Web References
+A    VMSViewer\working\Web References\testInbox
+A    VMSViewer\working\Web References\testInbox\Request.datasource
+A    VMSViewer\working\Web References\testInbox\Specie.datasource
+A    VMSViewer\working\Web References\testInbox\Reference.cs
+A    VMSViewer\working\Web References\testInbox\Case.datasource
+A    VMSViewer\working\Web References\testInbox\vmsinbox.disco
+A    VMSViewer\working\Web References\testInbox\ImageInfo.datasource
+A    VMSViewer\working\Web References\testInbox\Inbox.datasource
+A    VMSViewer\working\Web References\testInbox\Breed.datasource
+A    VMSViewer\working\Web References\testInbox\Reference.map
+A    VMSViewer\working\Web References\testInbox\Analysis.datasource
+A    VMSViewer\working\Web References\testInbox\Patient.datasource
+A    VMSViewer\working\Web References\testInbox\vmsinbox.wsdl
+A    VMSViewer\working\Web References\vmsInbox
+A    VMSViewer\working\Web References\vmsInbox\Request.datasource
+A    VMSViewer\working\Web References\vmsInbox\ClientDoctor.datasource
+A    VMSViewer\working\Web References\vmsInbox\Specie1.datasource
+A    VMSViewer\working\Web References\vmsInbox\Case1.datasource
+A    VMSViewer\working\Web References\vmsInbox\DownloaderClient.datasource
+A    VMSViewer\working\Web References\vmsInbox\ImageInfo.datasource
+A    VMSViewer\working\Web References\vmsInbox\Inbox1.datasource
+A    VMSViewer\working\Web References\vmsInbox\DownloaderImage.datasource
+A    VMSViewer\working\Web References\vmsInbox\Breed1.datasource
+A    VMSViewer\working\Web References\vmsInbox\Patient.datasource
+A    VMSViewer\working\Web References\vmsInbox\Analysis1.datasource
+A    VMSViewer\working\Web References\vmsInbox\Specie.datasource
+A    VMSViewer\working\Web References\vmsInbox\Reference.cs
+A    VMSViewer\working\Web References\vmsInbox\Request1.datasource
+A    VMSViewer\working\Web References\vmsInbox\Case.datasource
+A    VMSViewer\working\Web References\vmsInbox\ImageData.datasource
+A    VMSViewer\working\Web References\vmsInbox\vmsinbox.disco
+A    VMSViewer\working\Web References\vmsInbox\Inbox.datasource
+A    VMSViewer\working\Web References\vmsInbox\ImageInfo1.datasource
+A    VMSViewer\working\Web References\vmsInbox\Breed.datasource
+A    VMSViewer\working\Web References\vmsInbox\Reference.map
+A    VMSViewer\working\Web References\vmsInbox\Analysis.datasource
+A    VMSViewer\working\Web References\vmsInbox\vmsinbox.wsdl
+A    VMSViewer\working\Web References\vmsInbox\Patient1.datasource
+A    VMSViewer\working\VMS Viewer_3_TemporaryKey.pfx
+A    VMSViewer\working\Exceptions
+A    VMSViewer\working\Exceptions\CaseBadForViewerException.cs
+A    VMSViewer\working\splash.htm
+A    VMSViewer\working\doc-arrow-right-green.bmp
+A    VMSViewer\working\app.config
+A    VMSViewer\working\app.QA.config
+A    VMSViewer\working\doc-arrow-updown.bmp
+A    VMSViewer\working\Forms
+A    VMSViewer\working\Forms\Viewer.resx
+A    VMSViewer\working\Forms\Mainform.Thread.cs
+A    VMSViewer\working\Forms\DOViewer.Designer.cs
+A    VMSViewer\working\Forms\DOViewer.cs
+A    VMSViewer\working\Forms\InternetExplorer.resx
+A    VMSViewer\working\Forms\PleaseWaitDlg.cs
+A    VMSViewer\working\Forms\ManageCache.resx
+A    VMSViewer\working\Forms\BrokenFileList.resx
+A    VMSViewer\working\Forms\ReorderDlg.Designer.cs
+A    VMSViewer\working\Forms\ApplyFilter.Designer.cs
+A    VMSViewer\working\Forms\ImageInformationType.cs
+A    VMSViewer\working\Forms\LogoutForm.Designer.cs
+A    VMSViewer\working\Forms\Viewer.cs
+A    VMSViewer\working\Forms\PreferencesDlg.resx
+A    VMSViewer\working\Forms\ReorderDlg.resx
+A    VMSViewer\working\Forms\ApplyFilter.resx
+A    VMSViewer\working\Forms\LogoutForm.resx
+A    VMSViewer\working\Forms\InternetExplorer.cs
+A    VMSViewer\working\Forms\ManageCache.Designer.cs
+A    VMSViewer\working\Forms\BrokenFileList.Designer.cs
+A    VMSViewer\working\Forms\ManageCache.cs
+A    VMSViewer\working\Forms\BrokenFileList.cs
+A    VMSViewer\working\Forms\LabelFormType.resx
+A    VMSViewer\working\Forms\Mainform.resx
+A    VMSViewer\working\Forms\Login.resx
+A    VMSViewer\working\Forms\PleaseWaitDlg.Designer.cs
+A    VMSViewer\working\Forms\AboutAssembly.resx
+A    VMSViewer\working\Forms\PreferencesDlg.Designer.cs
+A    VMSViewer\working\Forms\PreferencesDlg.cs
+A    VMSViewer\working\Forms\ReorderDlg.cs
+A    VMSViewer\working\Forms\ApplyFilter.cs
+A    VMSViewer\working\Forms\LogoutForm.cs
+A    VMSViewer\working\Forms\DOViewer.resx
+A    VMSViewer\working\Forms\Viewer.Designer.cs
+A    VMSViewer\working\Forms\LabelFormType.cs
+A    VMSViewer\working\Forms\ImageInformationType.resx
+A    VMSViewer\working\Forms\Mainform.Designer.cs
+A    VMSViewer\working\Forms\Login.Designer.cs
+A    VMSViewer\working\Forms\Mainform.cs
+A    VMSViewer\working\Forms\Login.cs
+A    VMSViewer\working\Forms\InternetExplorer.Designer.cs
+A    VMSViewer\working\Forms\AboutAssembly.Designer.cs
+A    VMSViewer\working\Forms\AboutAssembly.cs
+A    VMSViewer\working\Properties
+A    VMSViewer\working\Properties\AssemblyInfo.cs
+A    VMSViewer\working\Properties\Settings.settings
+A    VMSViewer\working\Properties\Settings.Designer.cs
+A    VMSViewer\working\Properties\app.manifest
+A    VMSViewer\working\Properties\Resources.resx
+A    VMSViewer\working\Properties\Resources.Designer.cs
+A    VMSViewer\working\VMS Viewer_TemporaryKey.pfx
+A    VMSViewer\working\doc-arrow-leftright.bmp
+A    VMSViewer\working\doc-arrow-left-green.bmp
+A    VMSViewer\working\VMSViewer.ico
+A    VMSViewer\working\licenses.licx
+A    VMSViewer\working\logo.gif
+A    VMSViewer\working\Config
+A    VMSViewer\working\Config\QA
+A    VMSViewer\working\Config\QA\app.config
+A    VMSViewer\working\Config\Prod
+A    VMSViewer\working\Config\Prod\app.config
+A    VMSViewer\working\Config\Dev
+A    VMSViewer\working\Config\Dev\app.config
+A    VMSViewer\working\VMS
+A    VMSViewer\working\VMS\VMSBrowserManager.cs
+A    VMSViewer\working\Icons
+A    VMSViewer\working\Icons\RotRight.bmp
+A    VMSViewer\working\Icons\FlipH.bmp
+A    VMSViewer\working\Icons\btnFlatSml.bmp
+A    VMSViewer\working\Icons\viewer-thumbnail-err.bmp
+A    VMSViewer\working\Icons\hand.bmp
+A    VMSViewer\working\Icons\btnDown.bmp
+A    VMSViewer\working\Icons\Acrobat.bmp
+A    VMSViewer\working\Icons\No.bmp
+A    VMSViewer\working\Icons\zoomout.bmp
+A    VMSViewer\working\Icons\btnOver.bmp
+A    VMSViewer\working\Icons\RotLeft.bmp
+A    VMSViewer\working\Icons\btnBackFlat.btn
+A    VMSViewer\working\Icons\FlipV.bmp
+A    VMSViewer\working\Icons\IE7_icons.jpg
+A    VMSViewer\working\Icons\Reset.bmp
+A    VMSViewer\working\Icons\zoom.bmp
+A    VMSViewer\working\Icons\btnDownSml.bmp
+A    VMSViewer\working\Icons\monitor.bmp
+A    VMSViewer\working\Icons\btnFlat.bmp
+A    VMSViewer\working\Icons\ie7.png
+A    VMSViewer\working\Icons\btnOverSml.bmp
+A    VMSViewer\working\Icons\IE.bmp
+A    VMSViewer\working\Icons\Yes.bmp
+A    VMSViewer\working\Icons\measure.bmp
+A    VMSViewer\working\Util
+A    VMSViewer\working\Util\Item.cs
+A    VMSViewer\working\Util\GlobalSettings.cs
+A    VMSViewer\working\Util\DeleteFilesArgs.cs
+A    VMSViewer\working\Util\CaptureScreen.cs
+A    VMSViewer\working\Util\WinStructs.cs
+A    VMSViewer\working\Util\BrightnessContrast.cs
+A    VMSViewer\working\Util\InputBox.cs
+A    VMSViewer\working\Util\Rijndael.cs
+A    VMSViewer\working\Util\VMSBrowserWrapper.cs
+A    VMSViewer\working\packages
+A    VMSViewer\working\packages\repositories.config
+A    VMSViewer\working\packages\.docstates.suo
+A    VMSViewer\working\packages\SlowCheetah.2.5.5
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\SlowCheetah.2.5.5.nupkg
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\tools
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\tools\Microsoft.Web.XmlTransform.dll
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\tools\Install.ps1
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\tools\SlowCheetah.NuGet.template.proj
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\tools\SlowCheetah.Transforms.targets
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\tools\SlowCheetah.Xdt.dll
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\SlowCheetah.2.5.5.nuspec
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\content
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\content\packageRestore.proj
+A    VMSViewer\working\VMS Viewer_2_TemporaryKey.pfx
+A    VMSViewer\working\VMS Viewer_4_TemporaryKey.pfx
+A    VMSViewer\working\VMS Viewer.sln
+A    VMSViewer\working\packages.config
+A    VMSViewer\working\External References
+A    VMSViewer\working\External References\Microsoft.DirectX.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.AdvancedPhotoEffects.xml
+A    VMSViewer\working\External References\Atalasoft.dotImage.WinControls.xml
+A    VMSViewer\working\External References\Atalasoft.dotImage.Lib.dll
+A    VMSViewer\working\External References\MyDICOM.NET.xml
+A    VMSViewer\working\External References\log4net.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.Jpeg2000.xml
+A    VMSViewer\working\External References\Atalasoft.Shared.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.AdvancedPhotoEffects.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.Dicom.xml
+A    VMSViewer\working\External References\Atalasoft.dotImage.WinControls.dll
+A    VMSViewer\working\External References\MyDICOM.NET.dll
+A    VMSViewer\working\External References\DicomObjects.NET.2.0.dll
+A    VMSViewer\working\External References\Speckie32.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.xml
+A    VMSViewer\working\External References\MyDICOM.5.X.NET.lic
+A    VMSViewer\working\External References\Atalasoft.dotImage.Jpeg2000.dll
+A    VMSViewer\working\External References\MyDICOMUtilities.DLL
+A    VMSViewer\working\External References\Atalasoft.dotImage.WinControls.Design.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.Dicom.dll
+A    VMSViewer\working\External References\Microsoft.DirectX.AudioVideoPlayback.dll
+A    VMSViewer\working\VMS Viewer.csproj
+A    VMSViewer\working\VMS Viewer.csproj.vspscc
+A    VMSViewer\working\DICOM
+A    VMSViewer\working\DICOM\DICOMHelper.cs
+A    VMSViewer\working\DICOM\DICOMPrivateDictionary.cs
+A    VMSViewer\working\DICOM\DICOMDetails.resx
+A    VMSViewer\working\DICOM\DICOMDetails.Designer.cs
+A    VMSViewer\working\DICOM\DICOMDetails.cs
+A    VMSViewer\working\DICOM\DICOMImaging.cs
+A    VMSViewer\working\AssemblyInfo.cs
+A    VMSViewer\working\app.Release.config
+A    VMSViewer\working\Controls
+A    VMSViewer\working\Controls\TransparentLabel.resx
+A    VMSViewer\working\Controls\Toolbar.resx
+A    VMSViewer\working\Controls\VideoButton.resx
+A    VMSViewer\working\Controls\CaseQueue.Designer.cs
+A    VMSViewer\working\Controls\ImageViewer.resx
+A    VMSViewer\working\Controls\CaseQueue.cs
+A    VMSViewer\working\Controls\FlatButton.Designer.cs
+A    VMSViewer\working\Controls\ExpandingThumbnail.cs
+A    VMSViewer\working\Controls\FlatButton.cs
+A    VMSViewer\working\Controls\AquaButton.cs
+A    VMSViewer\working\Controls\FilmStrip.resx
+A    VMSViewer\working\Controls\ColorProgressBar.cs
+A    VMSViewer\working\Controls\FlashButton.cs
+A    VMSViewer\working\Controls\WatchingInboxes.Designer.cs
+A    VMSViewer\working\Controls\WatchingInboxes.cs
+A    VMSViewer\working\Controls\TransparentButton.cs
+A    VMSViewer\working\Controls\Toolbar.Designer.cs
+A    VMSViewer\working\Controls\TransparentLabel.cs
+A    VMSViewer\working\Controls\VideoButton.Designer.cs
+A    VMSViewer\working\Controls\Toolbar.cs
+A    VMSViewer\working\Controls\VideoButton.cs
+A    VMSViewer\working\Controls\OnOffButton.cs
+A    VMSViewer\working\Controls\ImageViewer.Designer.cs
+A    VMSViewer\working\Controls\ImageViewer.cs
+A    VMSViewer\working\Controls\ItemCount.Designer.cs
+A    VMSViewer\working\Controls\PlayVideo.resx
+A    VMSViewer\working\Controls\WebButton.Designer.cs
+A    VMSViewer\working\Controls\ColorTrackBarDesigner.cs
+A    VMSViewer\working\Controls\FilmStrip.cs
+A    VMSViewer\working\Controls\ExpandingThumbnail.Designer.cs
+A    VMSViewer\working\Controls\ItemCount.resx
+A    VMSViewer\working\Controls\WebButton.resx
+A    VMSViewer\working\Controls\RequestStatus
+A    VMSViewer\working\Controls\RequestStatus\Overflowed.png
+A    VMSViewer\working\Controls\RequestStatus\Test.png
+A    VMSViewer\working\Controls\RequestStatus\NoImages.png
+A    VMSViewer\working\Controls\RequestStatus\Stat.png
+A    VMSViewer\working\Controls\ColorTrackBar.cs
+A    VMSViewer\working\Controls\PlayVideo.Designer.cs
+A    VMSViewer\working\Controls\PlayVideo.cs
+A    VMSViewer\working\Controls\CaseQueue.resx
+A    VMSViewer\working\Controls\TransparentButton.Designer.cs
+A    VMSViewer\working\Controls\ExpandingThumbnail.resx
+A    VMSViewer\working\Controls\FlatButton.resx
+A    VMSViewer\working\Controls\AquaButton.resx
+A    VMSViewer\working\Controls\OnOffButton.Designer.cs
+A    VMSViewer\working\Controls\ItemCount.cs
+A    VMSViewer\working\Controls\FilmStrip.Designer.cs
+A    VMSViewer\working\Controls\WatchingInboxes.resx
+A    VMSViewer\working\Controls\ColorProgressBarDesigner.cs
+A    VMSViewer\working\Controls\WebButton.cs
+A    VMSViewer\working\Settings.cs
+A    VMSViewer\working\MyDICOM.5.X.NET.lic
+A    VMSViewer\working\packageRestore.proj
+A    VMSViewer\working\app.TestDebug.config
+A    VMSViewer\working\app.Debug.config
+A    VMSViewer\working\Program.cs
+A    VMSViewer\working\VMS Viewer_1_TemporaryKey.pfx
+Updated to revision 9790.
+VMSWebServices3 
+U    VMSWebServices3\working\CascadeCustomSoftware.VDIC.UIProcessing\CascadeCustomSoftware.VDIC.UIProcessing.csproj
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\CascadeCustomSoftware.Vdic.SoundImageImporter2.csproj.user
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\installservice.bat
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\uninstallservice.bat
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\CascadeCustomSoftware.Vdic.SoundImageImporter2.csproj
+G    VMSWebServices3\working\VdicWebServices Suite.sln
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Dal\dataconfiguration.Release.config
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Dal\dataconfiguration.Debug.config
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Dal\dataconfiguration.config
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Dal\dataconfiguration.Dev.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Dal\CascadeCustomSoftware.Vdic.WebServices.Dal.csproj
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Dal\dataconfiguration.QA.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices\CascadeCustomSoftware.Vdic.WebServices.csproj
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Bll\CascadeCustomSoftware.Vdic.WebServices.Bll.csproj
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\dataconfiguration.Release.config
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\dataconfiguration.Debug.config
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\Properties\SlowCheetah
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\Properties\SlowCheetah\SlowCheetah.Transforms.targets
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\dataconfiguration.config
+G    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\CascadeCustomSoftware.Vdic.WebServices.Web.csproj
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\dataconfiguration.Dev.config
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\packages.config
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\dataconfiguration.QA.config
+CommonLibraries 
+DicomServer 
+At revision 10041.
+VetMedStat_rc 
+At revision 10041.
+VMS1 
+At revision 10041.
+VMSAdmin 
+At revision 10041.
+VMSClient 
+At revision 10041.
+VMSDatabase 
+U    VMSDatabase\working\ordered_scripts.txt
+U    VMSDatabase\working\Release Specific Scripts\8.2.0PS.sql
+U    VMSDatabase\working\Release Specific Scripts\MRCTInboxFix.sql
+Updated to revision 10041.
+VMSIntegrations 
+At revision 10041.
+VMSViewer 
+D    VMSViewer\working\Web References
+D    VMSViewer\working\VMS Viewer_3_TemporaryKey.pfx
+D    VMSViewer\working\Exceptions
+D    VMSViewer\working\splash.htm
+D    VMSViewer\working\doc-arrow-right-green.bmp
+D    VMSViewer\working\app.config
+D    VMSViewer\working\app.QA.config
+D    VMSViewer\working\doc-arrow-updown.bmp
+D    VMSViewer\working\Forms
+D    VMSViewer\working\Properties
+D    VMSViewer\working\VMS Viewer_TemporaryKey.pfx
+D    VMSViewer\working\doc-arrow-leftright.bmp
+D    VMSViewer\working\doc-arrow-left-green.bmp
+D    VMSViewer\working\VMSViewer.ico
+D    VMSViewer\working\licenses.licx
+D    VMSViewer\working\logo.gif
+D    VMSViewer\working\Config
+D    VMSViewer\working\VMS
+D    VMSViewer\working\Icons
+D    VMSViewer\working\Util
+D    VMSViewer\working\packages
+D    VMSViewer\working\VMS Viewer_2_TemporaryKey.pfx
+D    VMSViewer\working\VMS Viewer_4_TemporaryKey.pfx
+D    VMSViewer\working\VMS Viewer.sln
+D    VMSViewer\working\packages.config
+D    VMSViewer\working\External References
+D    VMSViewer\working\VMS Viewer.csproj
+D    VMSViewer\working\VMS Viewer.csproj.vspscc
+D    VMSViewer\working\DICOM
+D    VMSViewer\working\AssemblyInfo.cs
+D    VMSViewer\working\app.Release.config
+D    VMSViewer\working\Controls
+D    VMSViewer\working\Settings.cs
+D    VMSViewer\working\MyDICOM.5.X.NET.lic
+D    VMSViewer\working\packageRestore.proj
+D    VMSViewer\working\app.TestDebug.config
+D    VMSViewer\working\app.Debug.config
+D    VMSViewer\working\Program.cs
+D    VMSViewer\working\VMS Viewer_1_TemporaryKey.pfx
+A    VMSViewer\working\VMSViewer
+A    VMSViewer\working\VMSViewer\Web References
+A    VMSViewer\working\VMSViewer\Web References\testInbox
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Request.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Specie.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Reference.cs
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Case.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\vmsinbox.disco
+A    VMSViewer\working\VMSViewer\Web References\testInbox\ImageInfo.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Inbox.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Breed.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Reference.map
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Analysis.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Patient.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\vmsinbox.wsdl
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Request.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\ClientDoctor.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Specie1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Case1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\DownloaderClient.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\ImageInfo.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Inbox1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\DownloaderImage.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Breed1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Patient.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Analysis1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Specie.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Reference.cs
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Request1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Case.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\ImageData.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\vmsinbox.disco
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Inbox.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\ImageInfo1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Breed.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Reference.map
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Analysis.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\vmsinbox.wsdl
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Patient1.datasource
+A    VMSViewer\working\VMSViewer\VMS Viewer_3_TemporaryKey.pfx
+A    VMSViewer\working\VMSViewer\Exceptions
+A    VMSViewer\working\VMSViewer\Exceptions\CaseBadForViewerException.cs
+A    VMSViewer\working\VMSViewer\splash.htm
+A    VMSViewer\working\VMSViewer\doc-arrow-right-green.bmp
+A    VMSViewer\working\VMSViewer\app.config
+A    VMSViewer\working\VMSViewer\app.QA.config
+A    VMSViewer\working\VMSViewer\doc-arrow-updown.bmp
+A    VMSViewer\working\VMSViewer\Forms
+A    VMSViewer\working\VMSViewer\Forms\Viewer.resx
+A    VMSViewer\working\VMSViewer\Forms\Mainform.Thread.cs
+A    VMSViewer\working\VMSViewer\Forms\DOViewer.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\DOViewer.cs
+A    VMSViewer\working\VMSViewer\Forms\InternetExplorer.resx
+A    VMSViewer\working\VMSViewer\Forms\PleaseWaitDlg.cs
+A    VMSViewer\working\VMSViewer\Forms\ManageCache.resx
+A    VMSViewer\working\VMSViewer\Forms\BrokenFileList.resx
+A    VMSViewer\working\VMSViewer\Forms\ReorderDlg.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\ApplyFilter.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\ImageInformationType.cs
+A    VMSViewer\working\VMSViewer\Forms\LogoutForm.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\Viewer.cs
+A    VMSViewer\working\VMSViewer\Forms\PreferencesDlg.resx
+A    VMSViewer\working\VMSViewer\Forms\ReorderDlg.resx
+A    VMSViewer\working\VMSViewer\Forms\ApplyFilter.resx
+A    VMSViewer\working\VMSViewer\Forms\LogoutForm.resx
+A    VMSViewer\working\VMSViewer\Forms\InternetExplorer.cs
+A    VMSViewer\working\VMSViewer\Forms\ManageCache.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\BrokenFileList.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\ManageCache.cs
+A    VMSViewer\working\VMSViewer\Forms\BrokenFileList.cs
+A    VMSViewer\working\VMSViewer\Forms\LabelFormType.resx
+A    VMSViewer\working\VMSViewer\Forms\Mainform.resx
+A    VMSViewer\working\VMSViewer\Forms\Login.resx
+A    VMSViewer\working\VMSViewer\Forms\PleaseWaitDlg.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\AboutAssembly.resx
+A    VMSViewer\working\VMSViewer\Forms\PreferencesDlg.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\PreferencesDlg.cs
+A    VMSViewer\working\VMSViewer\Forms\ReorderDlg.cs
+A    VMSViewer\working\VMSViewer\Forms\ApplyFilter.cs
+A    VMSViewer\working\VMSViewer\Forms\LogoutForm.cs
+A    VMSViewer\working\VMSViewer\Forms\DOViewer.resx
+A    VMSViewer\working\VMSViewer\Forms\Viewer.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\LabelFormType.cs
+A    VMSViewer\working\VMSViewer\Forms\ImageInformationType.resx
+A    VMSViewer\working\VMSViewer\Forms\Mainform.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\Login.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\Mainform.cs
+A    VMSViewer\working\VMSViewer\Forms\Login.cs
+A    VMSViewer\working\VMSViewer\Forms\InternetExplorer.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\AboutAssembly.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\AboutAssembly.cs
+A    VMSViewer\working\VMSViewer\Properties
+A    VMSViewer\working\VMSViewer\Properties\AssemblyInfo.cs
+A    VMSViewer\working\VMSViewer\Properties\Settings.settings
+A    VMSViewer\working\VMSViewer\Properties\Settings.Designer.cs
+A    VMSViewer\working\VMSViewer\Properties\app.manifest
+A    VMSViewer\working\VMSViewer\Properties\Resources.resx
+A    VMSViewer\working\VMSViewer\Properties\Resources.Designer.cs
+A    VMSViewer\working\VMSViewer\VMS Viewer_TemporaryKey.pfx
+A    VMSViewer\working\VMSViewer\doc-arrow-leftright.bmp
+A    VMSViewer\working\VMSViewer\doc-arrow-left-green.bmp
+A    VMSViewer\working\VMSViewer\VMSViewer.ico
+A    VMSViewer\working\VMSViewer\licenses.licx
+A    VMSViewer\working\VMSViewer\logo.gif
+A    VMSViewer\working\VMSViewer\Config
+A    VMSViewer\working\VMSViewer\Config\QA
+A    VMSViewer\working\VMSViewer\Config\QA\app.config
+A    VMSViewer\working\VMSViewer\Config\Prod
+A    VMSViewer\working\VMSViewer\Config\Prod\app.config
+A    VMSViewer\working\VMSViewer\Config\Dev
+A    VMSViewer\working\VMSViewer\Config\Dev\app.config
+A    VMSViewer\working\VMSViewer\VMS
+A    VMSViewer\working\VMSViewer\VMS\VMSBrowserManager.cs
+A    VMSViewer\working\VMSViewer\Icons
+A    VMSViewer\working\VMSViewer\Icons\RotRight.bmp
+A    VMSViewer\working\VMSViewer\Icons\FlipH.bmp
+A    VMSViewer\working\VMSViewer\Icons\btnFlatSml.bmp
+A    VMSViewer\working\VMSViewer\Icons\viewer-thumbnail-err.bmp
+A    VMSViewer\working\VMSViewer\Icons\hand.bmp
+A    VMSViewer\working\VMSViewer\Icons\btnDown.bmp
+A    VMSViewer\working\VMSViewer\Icons\Acrobat.bmp
+A    VMSViewer\working\VMSViewer\Icons\No.bmp
+A    VMSViewer\working\VMSViewer\Icons\zoomout.bmp
+A    VMSViewer\working\VMSViewer\Icons\btnOver.bmp
+A    VMSViewer\working\VMSViewer\Icons\RotLeft.bmp
+A    VMSViewer\working\VMSViewer\Icons\btnBackFlat.btn
+A    VMSViewer\working\VMSViewer\Icons\FlipV.bmp
+A    VMSViewer\working\VMSViewer\Icons\IE7_icons.jpg
+A    VMSViewer\working\VMSViewer\Icons\Reset.bmp
+A    VMSViewer\working\VMSViewer\Icons\zoom.bmp
+A    VMSViewer\working\VMSViewer\Icons\btnDownSml.bmp
+A    VMSViewer\working\VMSViewer\Icons\monitor.bmp
+A    VMSViewer\working\VMSViewer\Icons\btnFlat.bmp
+A    VMSViewer\working\VMSViewer\Icons\ie7.png
+A    VMSViewer\working\VMSViewer\Icons\btnOverSml.bmp
+A    VMSViewer\working\VMSViewer\Icons\IE.bmp
+A    VMSViewer\working\VMSViewer\Icons\Yes.bmp
+A    VMSViewer\working\VMSViewer\Icons\measure.bmp
+A    VMSViewer\working\VMSViewer\Util
+A    VMSViewer\working\VMSViewer\Util\Item.cs
+A    VMSViewer\working\VMSViewer\Util\GlobalSettings.cs
+A    VMSViewer\working\VMSViewer\Util\DeleteFilesArgs.cs
+A    VMSViewer\working\VMSViewer\Util\CaptureScreen.cs
+A    VMSViewer\working\VMSViewer\Util\WinStructs.cs
+A    VMSViewer\working\VMSViewer\Util\BrightnessContrast.cs
+A    VMSViewer\working\VMSViewer\Util\InputBox.cs
+A    VMSViewer\working\VMSViewer\Util\Rijndael.cs
+A    VMSViewer\working\VMSViewer\Util\VMSBrowserWrapper.cs
+A    VMSViewer\working\VMSViewer\packages
+A    VMSViewer\working\VMSViewer\packages\repositories.config
+A    VMSViewer\working\VMSViewer\packages\.docstates.suo
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\SlowCheetah.2.5.5.nupkg
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\tools
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\tools\Microsoft.Web.XmlTransform.dll
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\tools\Install.ps1
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\tools\SlowCheetah.NuGet.template.proj
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\tools\SlowCheetah.Transforms.targets
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\tools\SlowCheetah.Xdt.dll
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\SlowCheetah.2.5.5.nuspec
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\content
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\content\packageRestore.proj
+A    VMSViewer\working\VMSViewer\VMS Viewer_2_TemporaryKey.pfx
+A    VMSViewer\working\VMSViewer\VMS Viewer_4_TemporaryKey.pfx
+A    VMSViewer\working\VMSViewer\VMS Viewer.sln
+A    VMSViewer\working\VMSViewer\packages.config
+A    VMSViewer\working\VMSViewer\External References
+A    VMSViewer\working\VMSViewer\External References\Microsoft.DirectX.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.AdvancedPhotoEffects.xml
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.WinControls.xml
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.Lib.dll
+A    VMSViewer\working\VMSViewer\External References\MyDICOM.NET.xml
+A    VMSViewer\working\VMSViewer\External References\log4net.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.Jpeg2000.xml
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.Shared.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.AdvancedPhotoEffects.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.Dicom.xml
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.WinControls.dll
+A    VMSViewer\working\VMSViewer\External References\MyDICOM.NET.dll
+A    VMSViewer\working\VMSViewer\External References\DicomObjects.NET.2.0.dll
+A    VMSViewer\working\VMSViewer\External References\Speckie32.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.xml
+A    VMSViewer\working\VMSViewer\External References\MyDICOM.5.X.NET.lic
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.Jpeg2000.dll
+A    VMSViewer\working\VMSViewer\External References\MyDICOMUtilities.DLL
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.WinControls.Design.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.Dicom.dll
+A    VMSViewer\working\VMSViewer\External References\Microsoft.DirectX.AudioVideoPlayback.dll
+A    VMSViewer\working\VMSViewer\VMS Viewer.csproj
+A    VMSViewer\working\VMSViewer\VMS Viewer.csproj.vspscc
+A    VMSViewer\working\VMSViewer\DICOM
+A    VMSViewer\working\VMSViewer\DICOM\DICOMHelper.cs
+A    VMSViewer\working\VMSViewer\DICOM\DICOMPrivateDictionary.cs
+A    VMSViewer\working\VMSViewer\DICOM\DICOMDetails.resx
+A    VMSViewer\working\VMSViewer\DICOM\DICOMDetails.Designer.cs
+A    VMSViewer\working\VMSViewer\DICOM\DICOMDetails.cs
+A    VMSViewer\working\VMSViewer\DICOM\DICOMImaging.cs
+A    VMSViewer\working\VMSViewer\AssemblyInfo.cs
+A    VMSViewer\working\VMSViewer\app.Release.config
+A    VMSViewer\working\VMSViewer\Controls
+A    VMSViewer\working\VMSViewer\Controls\TransparentLabel.resx
+A    VMSViewer\working\VMSViewer\Controls\Toolbar.resx
+A    VMSViewer\working\VMSViewer\Controls\VideoButton.resx
+A    VMSViewer\working\VMSViewer\Controls\CaseQueue.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ImageViewer.resx
+A    VMSViewer\working\VMSViewer\Controls\CaseQueue.cs
+A    VMSViewer\working\VMSViewer\Controls\FlatButton.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ExpandingThumbnail.cs
+A    VMSViewer\working\VMSViewer\Controls\FlatButton.cs
+A    VMSViewer\working\VMSViewer\Controls\AquaButton.cs
+A    VMSViewer\working\VMSViewer\Controls\FilmStrip.resx
+A    VMSViewer\working\VMSViewer\Controls\ColorProgressBar.cs
+A    VMSViewer\working\VMSViewer\Controls\FlashButton.cs
+A    VMSViewer\working\VMSViewer\Controls\WatchingInboxes.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\WatchingInboxes.cs
+A    VMSViewer\working\VMSViewer\Controls\TransparentButton.cs
+A    VMSViewer\working\VMSViewer\Controls\Toolbar.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\TransparentLabel.cs
+A    VMSViewer\working\VMSViewer\Controls\VideoButton.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\Toolbar.cs
+A    VMSViewer\working\VMSViewer\Controls\VideoButton.cs
+A    VMSViewer\working\VMSViewer\Controls\OnOffButton.cs
+A    VMSViewer\working\VMSViewer\Controls\ImageViewer.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ImageViewer.cs
+A    VMSViewer\working\VMSViewer\Controls\ItemCount.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\PlayVideo.resx
+A    VMSViewer\working\VMSViewer\Controls\WebButton.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ColorTrackBarDesigner.cs
+A    VMSViewer\working\VMSViewer\Controls\FilmStrip.cs
+A    VMSViewer\working\VMSViewer\Controls\ExpandingThumbnail.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ItemCount.resx
+A    VMSViewer\working\VMSViewer\Controls\WebButton.resx
+A    VMSViewer\working\VMSViewer\Controls\RequestStatus
+A    VMSViewer\working\VMSViewer\Controls\RequestStatus\Overflowed.png
+A    VMSViewer\working\VMSViewer\Controls\RequestStatus\Test.png
+A    VMSViewer\working\VMSViewer\Controls\RequestStatus\NoImages.png
+A    VMSViewer\working\VMSViewer\Controls\RequestStatus\Stat.png
+A    VMSViewer\working\VMSViewer\Controls\ColorTrackBar.cs
+A    VMSViewer\working\VMSViewer\Controls\PlayVideo.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\PlayVideo.cs
+A    VMSViewer\working\VMSViewer\Controls\CaseQueue.resx
+A    VMSViewer\working\VMSViewer\Controls\TransparentButton.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ExpandingThumbnail.resx
+A    VMSViewer\working\VMSViewer\Controls\FlatButton.resx
+A    VMSViewer\working\VMSViewer\Controls\AquaButton.resx
+A    VMSViewer\working\VMSViewer\Controls\OnOffButton.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ItemCount.cs
+A    VMSViewer\working\VMSViewer\Controls\FilmStrip.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\WatchingInboxes.resx
+A    VMSViewer\working\VMSViewer\Controls\ColorProgressBarDesigner.cs
+A    VMSViewer\working\VMSViewer\Controls\WebButton.cs
+A    VMSViewer\working\VMSViewer\Settings.cs
+A    VMSViewer\working\VMSViewer\MyDICOM.5.X.NET.lic
+A    VMSViewer\working\VMSViewer\packageRestore.proj
+A    VMSViewer\working\VMSViewer\app.TestDebug.config
+A    VMSViewer\working\VMSViewer\app.Debug.config
+A    VMSViewer\working\VMSViewer\Program.cs
+A    VMSViewer\working\VMSViewer\VMS Viewer_1_TemporaryKey.pfx
+Updated to revision 10041.
+VMSWebServices3 
+U    VMSWebServices3\working\packages\repositories.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.Utilities\CascadeCustomSoftware.Vdic.Utilities.csproj
+D    VMSWebServices3\working\SampleClient2005\app.QA.config
+D    VMSWebServices3\working\SampleClient2005\app.Dev.config
+D    VMSWebServices3\working\SampleClient2005\packages.config
+D    VMSWebServices3\working\SampleClient2005\app.Release.config
+D    VMSWebServices3\working\SampleClient2005\app.Debug.config
+U    VMSWebServices3\working\SampleClient2005\app.config
+D    VMSWebServices3\working\SampleClient2005\Properties\SlowCheetah
+U    VMSWebServices3\working\SampleClient2005\Properties\Settings.settings
+U    VMSWebServices3\working\SampleClient2005\Properties\Settings.Designer.cs
+U    VMSWebServices3\working\SampleClient2005\TestingForms.csproj
+U    VMSWebServices3\working\SampleClient2005\VetPACS.cs
+ U   VMSWebServices3\working\SampleClient2005\obj
+ U   VMSWebServices3\working\SampleClient2005
+Updated to revision 10041.
+CommonLibraries 
+At revision 10628.
+DicomServer 
+U    DicomServer\working\TestRun\App.config
+U    DicomServer\working\VDIC DICOM.sln
+U    DicomServer\working\Service Host\VDIC DICOM Service Host.csproj
+U    DicomServer\working\Service Host\App.config
+U    DicomServer\working\Service Host\App.QA.config
+U    DicomServer\working\Service Host\VetData-Dev.udl
+U    DicomServer\working\Service Host\VetData-Release.udl
+U    DicomServer\working\Service Host\Properties\Settings.settings
+U    DicomServer\working\Service Host\Properties\Settings.Designer.cs
+U    DicomServer\working\Service Host\App.Dev.config
+U    DicomServer\working\Service Host\App.Release.config
+U    DicomServer\working\Service Host\VetData-QA.udl
+U    DicomServer\working\Service Host\VetData.udl
+U    DicomServer\working\packages\repositories.config
+Updated to revision 10628.
+VetMedStat_rc 
+U    VetMedStat_rc\working\vetdata-Dev.udl
+D    VetMedStat_rc\working\Properties\PublishProfiles\buildMachine-Dev.pubxml
+D    VetMedStat_rc\working\Properties\PublishProfiles\buildMachine-Release.pubxml
+D    VetMedStat_rc\working\Properties\PublishProfiles\buildMachine-QA.pubxml
+A    VetMedStat_rc\working\Properties\PublishProfiles\buildMachine.pubxml
+U    VetMedStat_rc\working\bin\vetdata.udl
+U    VetMedStat_rc\working\Web.config
+U    VetMedStat_rc\working\vetdata-Release.udl
+A    VetMedStat_rc\working\VetMedStat_RC.csproj
+U    VetMedStat_rc\working\vetdata-QA.udl
+U    VetMedStat_rc\working\vetdata.udl
+Updated to revision 10628.
+VMS1 
+A    VMS1\working\TERMS and CONDITIONS.pdf
+U    VMS1\working\VDICWebstat.lib
+U    VMS1\working\webstat_production.ASP
+U    VMS1\working\CFinishCase.cls
+U    VMS1\working\template.htm
+U    VMS1\working\VDICWebstat.exp
+U    VMS1\working\RequestSummary.htm
+U    VMS1\working\VDICWebstat.dll
+U    VMS1\working\webstat_dev.ASP
+U    VMS1\working\CWebStatApp.cls
+U    VMS1\working\templateLogon.htm
+U    VMS1\working\Config Transforms\IDEXX Data Center Dev\progress_xupload.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center Dev\connection.udl
+U    VMS1\working\Config Transforms\IDEXX Data Center Dev\progress_xupload_production.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center Dev\progress_xupload_save.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center Dev\default.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\progress_xupload.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\connection.udl
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\default_old2.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\default_old3.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\progress_xupload_production.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\testdownload.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\webstat_test.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\default_temp.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\aetitles.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\reports\default.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\progress_xupload_save.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\timeentry.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\default.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\default_log.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\default_profiler.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\testTrans.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\testdownload2.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\default_timeout.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\vmsLegacy.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center Release\debugMacros.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center QA\progress_xupload.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center QA\connection.udl
+U    VMS1\working\Config Transforms\IDEXX Data Center QA\progress_xupload_production.asp
+U    VMS1\working\Config Transforms\IDEXX Data Center QA\default.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center QA\default_log.ASP
+U    VMS1\working\Config Transforms\IDEXX Data Center QA\vmsLegacy.ASP
+U    VMS1\working\VDICWebstat.vbp
+U    VMS1\working\VDICWebstat.vbw
+U    VMS1\working\DeployRelease.bat
+A    VMS1\working\default.htm
+U    VMS1\working\template_viewer.htm
+Updated to revision 10628.
+VMSAdmin 
+U    VMSAdmin\working\VMS Admin UI\Web.QA.config
+U    VMSAdmin\working\VMS Admin UI\Properties\Settings.settings
+U    VMSAdmin\working\VMS Admin UI\Properties\Settings.Designer.cs
+D    VMSAdmin\working\VMS Admin UI\Properties\PublishProfiles\buildMachine-Dev.pubxml
+D    VMSAdmin\working\VMS Admin UI\Properties\PublishProfiles\buildMachine-Release.pubxml
+D    VMSAdmin\working\VMS Admin UI\Properties\PublishProfiles\buildMachine-QA.pubxml
+A    VMSAdmin\working\VMS Admin UI\Properties\PublishProfiles\buildMachine.pubxml
+U    VMSAdmin\working\VMS Admin UI\Web.Release.config
+U    VMSAdmin\working\VMS Admin UI\VMS Admin UI.csproj
+U    VMSAdmin\working\VMS Admin UI\Web.config
+U    VMSAdmin\working\VMS Admin UI\Connections\VetData.asp
+U    VMSAdmin\working\VMS Admin UI\Connections\Extranet.asp
+U    VMSAdmin\working\VMS Admin UI\Web.Dev.config
+U    VMSAdmin\working\VMS Admin UI\dicom-clients.asp
+ U   VMSAdmin\working\VMS Admin UI
+Updated to revision 10628.
+VMSClient 
+D    VMSClient\working\VMSClientBL\Exceptions
+D    VMSClient\working\VMSClientBL\Settings.cs
+U    VMSClient\working\VMSClientBL\DownloaderImage.cs
+U    VMSClient\working\VMSClientBL\ImageProcessingQueueItem.cs
+U    VMSClient\working\VMSClientBL\Question.cs
+U    VMSClient\working\VMSClientBL\Case.cs
+U    VMSClient\working\VMSClientBL\VMSEnums.cs
+U    VMSClient\working\VMSClientBL\VmsClientBL.csproj
+U    VMSClient\working\VMSClientBL\RequestItemRendition.cs
+U    VMSClient\working\VMSClientBL\DownloaderClient.cs
+U    VMSClient\working\VMSClientBL\CustomAuthorizationManager.cs
+U    VMSClient\working\VMSClientBL\CustomClaimsTransformer.cs
+U    VMSClient\working\VMSClientBL\Request.cs
+U    VMSClient\working\VMSClientBL\VMSLogin.cs
+D    VMSClient\working\VMSClientBL\ConvertInterfaces\OncuraImageConverter .cs
+D    VMSClient\working\VMSClientBL\ConvertInterfaces\IImageConverterEmbededAVI.cs
+U    VMSClient\working\VMSClientBL\ConvertInterfaces\IImageConverter.cs
+U    VMSClient\working\VMSClientBL\ImageCompressor.cs
+U    VMSClient\working\VMSClientBL\DLInterfaces\ICaseAttachmentDao.cs
+U    VMSClient\working\VMSClientBL\DLInterfaces\IDownloaderImageDao.cs
+U    VMSClient\working\VMSClientBL\RequestItem.cs
+U    VMSClient\working\VMSClient.Imaging.Converters.Atalasoft\DicomConverter.cs
+U    VMSClient\working\VMSClientDL\VMSClientDL.dll-QA.config
+U    VMSClient\working\VMSClientDL\CaseAttachmentDat.cs
+U    VMSClient\working\VMSClientDL\VmsClientDL.csproj
+U    VMSClient\working\VMSClientDL\RequestItemDao.cs
+U    VMSClient\working\VMSClientDL\VMSClientDL.dll.config
+U    VMSClient\working\VMSClientDL\app.Release.config
+U    VMSClient\working\VMSClientDL\QuestionDat.cs
+U    VMSClient\working\VMSClientDL\Utility.cs
+U    VMSClient\working\VMSClientDL\RequestItemRenditionDao.cs
+U    VMSClient\working\VMSClientDL\StoredProcedure.cs
+U    VMSClient\working\VMSClientDL\VMSClientDL.dll-Release.config
+U    VMSClient\working\VMSClientDL\DownloaderImageDat.cs
+U    VMSClient\working\VMSClientDL\VMSClientDL.dll-Dev.config
+D    VMSClient\working\VMSClient.Services.Contracts\packages.config
+U    VMSClient\working\VMSClient.Services.Contracts\Services\IDownloaderService.cs
+U    VMSClient\working\VMSClient.Services.Contracts\VMSClient.Services.Contracts.csproj
+U    VMSClient\working\VMSClient.Services\Web.QA.config
+U    VMSClient\working\VMSClient.Services\Web.config
+U    VMSClient\working\VMSClient.Services\Properties\AssemblyInfo.cs
+D    VMSClient\working\VMSClient.Services\Properties\PublishProfiles\buildMachine-Dev.pubxml
+D    VMSClient\working\VMSClient.Services\Properties\PublishProfiles\buildMachine-Release.pubxml
+D    VMSClient\working\VMSClient.Services\Properties\PublishProfiles\buildMachine-QA.pubxml
+   C VMSClient\working\VMSClient.Services\Properties\PublishProfiles\Dev (Roger).pubxml.user
+A    VMSClient\working\VMSClient.Services\Properties\PublishProfiles\buildMachine.pubxml
+U    VMSClient\working\VMSClient.Services\Web.Dev.config
+U    VMSClient\working\VMSClient.Services\Web.Release.config
+ U   VMSClient\working\VMSClient.Services\Logs
+U    VMSClient\working\VMSClient.Services\DownloaderService.svc.cs
+U    VMSClient\working\VMSClientDL.Fake\packages.config
+U    VMSClient\working\VMSClientDL.Fake\VMSClientDL.Fake.csproj
+U    VMSClient\working\VMSClient.Common\AssemblyInfo.cs
+U    VMSClient\working\ExternalResouces\AnyCPU\DicomObjects.NET.2.0.dll
+U    VMSClient\working\VMSClient.Connector\Web.config
+U    VMSClient\working\VMSClientBL.Testing\VMSClientDL.dll.config
+D    VMSClient\working\VMSClientUI.p\apple-touch-icon-76x76.png
+D    VMSClient\working\VMSClientUI.p\apple-touch-icon-120x120.png
+D    VMSClient\working\VMSClientUI.p\apple-touch-icon-152x152.png
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case1.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case2.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case3.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case4.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case5.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case6.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case7.html
+U    VMSClient\working\VMSClientUI.p\employee-help\default.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case8.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case1 - Copy.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case9.html
+U    VMSClient\working\VMSClientUI.p\employee-help\standardphrases.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case2 - Copy.html
+U    VMSClient\working\VMSClientUI.p\employee-help\idexxemail.html
+U    VMSClient\working\VMSClientUI.p\employee-help\whatsnew820.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case10.html
+U    VMSClient\working\VMSClientUI.p\employee-help\testcases.html
+U    VMSClient\working\VMSClientUI.p\employee-help\radiologyrounds-case11.html
+U    VMSClient\working\VMSClientUI.p\employee-help\employee_profile.html
+U    VMSClient\working\VMSClientUI.p\employee-help\faq.html
+U    VMSClient\working\VMSClientUI.p\Web.config
+U    VMSClient\working\VMSClientUI.p\Default.aspx
+U    VMSClient\working\VMSClientUI.p\ECGUpload.ashx.cs
+D    VMSClient\working\VMSClientUI.p\Models\LoginControllerHandler.cs
+U    VMSClient\working\VMSClientUI.p\Models\LoginHandler.cs
+U    VMSClient\working\VMSClientUI.p\ContactUs.aspx
+U    VMSClient\working\VMSClientUI.p\Areas\api\Controllers\WorklistRequestController.cs
+U    VMSClient\working\VMSClientUI.p\Areas\api\Controllers\DownloaderCaseController.cs
+U    VMSClient\working\VMSClientUI.p\Areas\api\Controllers\DownloaderClientController.cs
+U    VMSClient\working\VMSClientUI.p\Areas\api\Controllers\SpecialistWorklistController.cs
+U    VMSClient\working\VMSClientUI.p\Areas\api\Controllers\AttachmentsProgressController.cs
+U    VMSClient\working\VMSClientUI.p\Areas\api\Controllers\SpecialistController.cs
+U    VMSClient\working\VMSClientUI.p\Areas\api\Controllers\SpecialistInboxController.cs
+U    VMSClient\working\VMSClientUI.p\Areas\api\Controllers\DownloaderImagesController.cs
+U    VMSClient\working\VMSClientUI.p\Areas\support\Models\ServerEnviornment.cs
+U    VMSClient\working\VMSClientUI.p\Areas\support\Controllers\DownloaderStatusesController.cs
+U    VMSClient\working\VMSClientUI.p\Areas\support\Controllers\ImageProcessingController.cs
+U    VMSClient\working\VMSClientUI.p\Areas\support\Views\Shared\Partial1.cshtml
+U    VMSClient\working\VMSClientUI.p\Web.Dev.config
+ U   VMSClient\working\VMSClientUI.p\Logs
+U    VMSClient\working\VMSClientUI.p\Thumbnail.ashx.cs
+U    VMSClient\working\VMSClientUI.p\Web.Debug.config
+U    VMSClient\working\VMSClientUI.p\Global.asax.cs
+U    VMSClient\working\VMSClientUI.p\jsDebug\default.html
+U    VMSClient\working\VMSClientUI.p\VMSClientUI.csproj
+U    VMSClient\working\VMSClientUI.p\Old_App_Code\ImageUpload.cs
+U    VMSClient\working\VMSClientUI.p\LoginHandler.cs
+U    VMSClient\working\VMSClientUI.p\Utilities\AssemblyInfo.cs
+U    VMSClient\working\VMSClientUI.p\help\accessing_your_stone_analysis_images.html
+U    VMSClient\working\VMSClientUI.p\help\imageformats.html
+U    VMSClient\working\VMSClientUI.p\help\telemedicine-interlink.html
+U    VMSClient\working\VMSClientUI.p\help\notes.html
+U    VMSClient\working\VMSClientUI.p\help\summary.html
+U    VMSClient\working\VMSClientUI.p\help\upload-symbionics.html
+U    VMSClient\working\VMSClientUI.p\help\digitalsystems\ultrasound\ge\logiqedicomsendsetup.htm
+U    VMSClient\working\VMSClientUI.p\help\digitalsystems\dr\maxxvue\dicomsetup.html
+U    VMSClient\working\VMSClientUI.p\help\digitalsystems\dr\maxxvue\dicomsendvetmedstat.html
+U    VMSClient\working\VMSClientUI.p\help\patient.html
+U    VMSClient\working\VMSClientUI.p\help\images.html
+U    VMSClient\working\VMSClientUI.p\help\dicomsend.html
+U    VMSClient\working\VMSClientUI.p\help\fee_schedule.html
+U    VMSClient\working\VMSClientUI.p\help\mylabuniversal.htm
+U    VMSClient\working\VMSClientUI.p\help\dashboardicons.html
+U    VMSClient\working\VMSClientUI.p\help\more_attention.html
+U    VMSClient\working\VMSClientUI.p\help\imagequalityreport.html
+U    VMSClient\working\VMSClientUI.p\help\questions.html
+U    VMSClient\working\VMSClientUI.p\help\ultrasoundchecklist.html
+U    VMSClient\working\VMSClientUI.p\help\more_sent.html
+U    VMSClient\working\VMSClientUI.p\help\more_cancelled.html
+U    VMSClient\working\VMSClientUI.p\help\imagetransmission.html
+U    VMSClient\working\VMSClientUI.p\help\caselookup.html
+U    VMSClient\working\VMSClientUI.p\help\contact_info.html
+U    VMSClient\working\VMSClientUI.p\help\pending_phone_consults.html
+U    VMSClient\working\VMSClientUI.p\help\contact_specialist.html
+U    VMSClient\working\VMSClientUI.p\help\phone_consult.html
+U    VMSClient\working\VMSClientUI.p\help\forgot_password.html
+U    VMSClient\working\VMSClientUI.p\help\default.html
+U    VMSClient\working\VMSClientUI.p\help\fax-attachments.html
+U    VMSClient\working\VMSClientUI.p\help\upload-vetpacs.html
+U    VMSClient\working\VMSClientUI.p\help\activex-troubleshooting.html
+U    VMSClient\working\VMSClientUI.p\help\ecgconsults-vs-ecgscreens.html
+U    VMSClient\working\VMSClientUI.p\help\service.html
+U    VMSClient\working\VMSClientUI.p\help\dr\maxxvue\dicomsetup.html
+U    VMSClient\working\VMSClientUI.p\help\new_account.html
+U    VMSClient\working\VMSClientUI.p\help\search.html
+U    VMSClient\working\VMSClientUI.p\help\practiceinformation-old.html
+U    VMSClient\working\VMSClientUI.p\help\faxing.html
+U    VMSClient\working\VMSClientUI.p\help\upload-dicom.html
+U    VMSClient\working\VMSClientUI.p\help\casestatus.html
+U    VMSClient\working\VMSClientUI.p\help\upload-website.html
+U    VMSClient\working\VMSClientUI.p\help\second_opinion.html
+U    VMSClient\working\VMSClientUI.p\help\followup.html
+U    VMSClient\working\VMSClientUI.p\App_Start\FilterConfig.cs
+U    VMSClient\working\VMSClientUI.p\ChatLog.aspx.cs
+D    VMSClient\working\VMSClientUI.p\Helpers\PrincipalHelper.cs
+U    VMSClient\working\VMSClientUI.p\Web.Release.config
+D    VMSClient\working\VMSClientUI.p\Controllers\AjaxLoginController.cs
+U    VMSClient\working\VMSClientUI.p\packages.config
+U    VMSClient\working\VMSClientUI.p\Web.QA.config
+D    VMSClient\working\VMSClientUI.p\Properties\PublishProfiles\buildMachine-Dev.pubxml
+D    VMSClient\working\VMSClientUI.p\Properties\PublishProfiles\buildMachine-Release.pubxml
+D    VMSClient\working\VMSClientUI.p\Properties\PublishProfiles\buildMachine-QA.pubxml
+U    VMSClient\working\VMSClientUI.p\Properties\PublishProfiles\Dev (Roger).pubxml
+A    VMSClient\working\VMSClientUI.p\Properties\PublishProfiles\buildMachine.pubxml
+U    VMSClient\working\VMSClientUI.p\UserControls\SelectService.ascx.cs
+U    VMSClient\working\VMSClientUI.p\UserControls\ucUpload.ascx.cs
+U    VMSClient\working\VMSClientUI.p\Scripts\_references.js
+U    VMSClient\working\VMSClientUI.p\Scripts\knockout-sortable.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.downloaderClients.min.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\dataservice.specialist.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.specialistInboxes.min.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.attachments.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.downloaderClients.min.js.map
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.specialistInboxes.min.js.map
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.worklistRequests.min.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.worklistRequests.min.js.map
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\datacontext.min.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.downloaderClients.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.specialist.min.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\config.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.specialistInboxes.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\datacontext.min.js.map
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.specialist.min.js.map
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.worklistRequests.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\dataservice.specialist.min.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.attachments.min.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\datacontext.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.specialist.js
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\dataservice.specialist.min.js.map
+U    VMSClient\working\VMSClientUI.p\Scripts\specialistvm\vm.attachments.min.js.map
+U    VMSClient\working\VMSClientUI.p\Scripts\vmsidx.utils.js
+U    VMSClient\working\VMSClientUI.p\Scripts\knockout-sortable.min.js
+A    VMSClient\working\VMSClientUI.p\Scripts\knockout-sortable.min.js.map
+U    VMSClient\working\VMSClientUI.p\Scripts\amplify.config.js
+U    VMSClient\working\VMSClientUI.p\Content\css\main.css
+U    VMSClient\working\VMSClient.Downloader\App.config
+U    VMSClient\working\VMSClient.Downloader\Properties\AssemblyInfo.cs
+U    VMSClient\working\VMSClient.Downloader\VMSClient.Downloader.csproj
+U    VMSClient\working\VMSClient.Downloader\Service References\DownloaderService\DownloaderService3.xsd
+U    VMSClient\working\VMSClient.Downloader\Service References\DownloaderService\Reference.cs
+U    VMSClient\working\VMSClient.Downloader\Service References\DownloaderService\Reference.svcmap
+U    VMSClient\working\VMSClient.Downloader\Service References\DownloaderService\DownloaderService.wsdl
+U    VMSClient\working\VMSClient.Downloader\Service References\DownloaderService\DownloaderService.xsd
+U    VMSClient\working\VMSClient.Downloader\ImageDownloader.cs
+U    VMSClient\working\VMSClient.Downloader\DownloadWorker.cs
+D    VMSClient\working\VMSClient.Imaging.Converters.DicomObjects\App.Dev.config
+D    VMSClient\working\VMSClient.Imaging.Converters.DicomObjects\App.Release.config
+D    VMSClient\working\VMSClient.Imaging.Converters.DicomObjects\App.QA.config
+D    VMSClient\working\VMSClient.Imaging.Converters.DicomObjects\App.config
+D    VMSClient\working\VMSClient.Imaging.Converters.DicomObjects\App.Debug.config
+U    VMSClient\working\VMSClient.Imaging.Converters.DicomObjects\packages.config
+U    VMSClient\working\VMSClient.Imaging.Converters.DicomObjects\DicomConverter.cs
+U    VMSClient\working\VMSClient.Imaging.Converters.DicomObjects\VMSClient.Imaging.Converters.DicomObjectsBased.csproj
+D    VMSClient\working\VMSClient.Imaging.Converters.DicomObjects\Properties\Settings.settings
+D    VMSClient\working\VMSClient.Imaging.Converters.DicomObjects\Properties\Settings.Designer.cs
+D    VMSClient\working\VMSClient.Imaging.Converters.DicomObjects\Properties\SlowCheetah
+U    VMSClient\working\VMSClient.Downloader.Testing\TestImageDownloading.cs
+U    VMSClient\working\VMSClient.Utilities\VMSClient.ExternalUtilities.csproj
+U    VMSClient\working\VMSClient.Utilities\Properties\AssemblyInfo.cs
+U    VMSClient\working\VMSClient.Utilities\Properties\Settings.settings
+U    VMSClient\working\VMSClient.Utilities\Properties\Settings.Designer.cs
+U    VMSClient\working\VMSClient.Utilities\ConsultationReport.rdlc
+U    VMSClient\working\VMSClient.Utilities\ConsultationReportVDIC.rdlc
+D    VMSClient\working\packages\Knockout-Sortable.0.8.6
+U    VMSClient\working\packages\repositories.config
+A    VMSClient\working\packages\Knockout-Sortable.0.8.3
+A    VMSClient\working\packages\Knockout-Sortable.0.8.3\Knockout-Sortable.0.8.3.nuspec
+A    VMSClient\working\packages\Knockout-Sortable.0.8.3\Content
+A    VMSClient\working\packages\Knockout-Sortable.0.8.3\Content\Scripts
+A    VMSClient\working\packages\Knockout-Sortable.0.8.3\Content\Scripts\knockout-sortable.js
+A    VMSClient\working\packages\Knockout-Sortable.0.8.3\Content\Scripts\knockout-sortable.min.js
+A    VMSClient\working\packages\Knockout-Sortable.0.8.3\Knockout-Sortable.0.8.3.nupkg
+A    VMSClient\working\packages\Knockout-Sortable.0.7.3.1
+A    VMSClient\working\packages\Knockout-Sortable.0.7.3.1\Content
+A    VMSClient\working\packages\Knockout-Sortable.0.7.3.1\Content\Scripts
+A    VMSClient\working\packages\Knockout-Sortable.0.7.3.1\Content\Scripts\knockout-sortable.js
+A    VMSClient\working\packages\Knockout-Sortable.0.7.3.1\Content\Scripts\knockout-sortable.min.js
+A    VMSClient\working\packages\Knockout-Sortable.0.7.3.1\Knockout-Sortable.0.7.3.1.nupkg
+Updated to revision 10628.
+Summary of conflicts:
+  Tree conflicts: 1
+VMSDatabase 
+D    VMSDatabase\working\Release Specific Scripts\820PS.sql
+D    VMSDatabase\working\Release Specific Scripts\MRCTInboxFix.sql
+A    VMSDatabase\working\Release Specific Scripts\8.2.1.sql
+A    VMSDatabase\working\Release Specific Scripts\UpdatebaseURL.sql
+U    VMSDatabase\working\deployAllChanges.bat
+U    VMSDatabase\working\ordered_scripts.txt
+U    VMSDatabase\working\Tables\CreateScripts\tblkp_rendition_types.sql
+U    VMSDatabase\working\Stored Procedures\Reports\rpt_sp_SpecialistProductivityAUP.sql
+U    VMSDatabase\working\Stored Procedures\Reports\rpt_fnc_AUP.sql
+U    VMSDatabase\working\Stored Procedures\cw_request_get.sql
+U    VMSDatabase\working\Stored Procedures\cw_attachment_progress_get_all.sql
+U    VMSDatabase\working\Stored Procedures\sp_send_cdosysmail.sql
+U    VMSDatabase\working\Stored Procedures\sp_request_send_images_to_specialist.sql
+U    VMSDatabase\working\Stored Procedures\sp_request_qa_summary.SQL
+U    VMSDatabase\working\Stored Procedures\cw_request_state_update.sql
+U    VMSDatabase\working\Stored Procedures\sp_case_chat_add.sql
+U    VMSDatabase\working\Stored Procedures\cw_image_get_thumbnail.sql
+U    VMSDatabase\working\Stored Procedures\sp_update_request_status.sql
+U    VMSDatabase\working\Stored Procedures\sp_dicom_consultation_update.sql
+U    VMSDatabase\working\Stored Procedures\sp_downloader_reset.sql
+U    VMSDatabase\working\Stored Procedures\cw_image_get_thumbnails_grouped_ecgs.sql
+U    VMSDatabase\working\Stored Procedures\cw_attachment_progress_get.sql
+U    VMSDatabase\working\Queries\vw_request_items_info.sql
+Updated to revision 10628.
+VMSIntegrations 
+U    VMSIntegrations\working\VDIC.Integration.BLL\Interfaces\IBanfieldCaseDao.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\Entities\Case.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\Entities\Image.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\Entities\ImageRendition.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\Entities\BanfieldCase.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\ArchiveProcessor.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\FaxServices.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\WADO\RetreiveFile.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\DICOM\CFind.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\DICOM\DICOMBase.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\DICOM\DicomFileParser.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\CleanupProcessor.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\CaseSubmission.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\Utilities\MailSender.cs
+U    VMSIntegrations\working\VDIC.Integration.BLL\VDIC.Integration.BLL.csproj
+D    VMSIntegrations\working\VDIC.Integration.Processing.Service\packages.config
+D    VMSIntegrations\working\VDIC.Integration.Processing.Service\app.QA.config
+D    VMSIntegrations\working\VDIC.Integration.Processing.Service\app.Dev.config
+D    VMSIntegrations\working\VDIC.Integration.Processing.Service\app.Release.config
+D    VMSIntegrations\working\VDIC.Integration.Processing.Service\app.Debug.config
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\ReportProcessor.cs
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\CaseProcessor.cs
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\VDIC.Integration.Processing.Service.csproj
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\FaxProcessor.cs
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\ArchiveProcess.cs
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\app.config
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\CleanupProcess.cs
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\InvoiceProcessor.cs
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\ProcessingService.cs
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\InboundFaxProcessor.cs
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\TMSProcessing.cs
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\ResultsProcessor.cs
+U    VMSIntegrations\working\VDIC.Integration.Processing.Service\CorrespondenceProcessor.cs
+ U   VMSIntegrations\working\VDIC.Integration.Processing.Service
+U    VMSIntegrations\working\FormsTest\app.config
+U    VMSIntegrations\working\FormsTest\Form1.Designer.cs
+U    VMSIntegrations\working\FormsTest\Form1.cs
+U    VMSIntegrations\working\VDIC.Integration.sln
+D    VMSIntegrations\working\VDIC.Integration.SAPConnector\app.Dev.config
+D    VMSIntegrations\working\VDIC.Integration.SAPConnector\app.Release.config
+D    VMSIntegrations\working\VDIC.Integration.SAPConnector\app.QA.config
+D    VMSIntegrations\working\VDIC.Integration.SAPConnector\app.Debug.config
+U    VMSIntegrations\working\VDIC.Integration.SAPConnector\FeedConnector.cs
+U    VMSIntegrations\working\VDIC.Integration.SAPConnector\FeedTeleproviderBuilder.cs
+U    VMSIntegrations\working\VDIC.Integration.SAPConnector\VDIC.Integration.SAPConnector.csproj
+U    VMSIntegrations\working\VDIC.Integration.SAPConnector\FeedInvoiceBuilder.cs
+D    VMSIntegrations\working\VDIC.Integration.SAPConnector\Properties\SlowCheetah
+U    VMSIntegrations\working\VDIC.Integration.SAPConnector\FeedBuilder.cs
+D    VMSIntegrations\working\VDIC.Integration.DAL\Settings.cs
+D    VMSIntegrations\working\VDIC.Integration.DAL\Properties\Settings.settings
+D    VMSIntegrations\working\VDIC.Integration.DAL\Properties\Settings.Designer.cs
+U    VMSIntegrations\working\VDIC.Integration.DAL\DAOFactory.cs
+U    VMSIntegrations\working\VDIC.Integration.DAL\App.Release.config
+U    VMSIntegrations\working\VDIC.Integration.DAL\CaseDao.cs
+U    VMSIntegrations\working\VDIC.Integration.DAL\Utility.cs
+U    VMSIntegrations\working\VDIC.Integration.DAL\StoredProcedure.cs
+U    VMSIntegrations\working\VDIC.Integration.DAL\App.QA.config
+U    VMSIntegrations\working\VDIC.Integration.DAL\App.config
+U    VMSIntegrations\working\VDIC.Integration.DAL\SqlStatement.cs
+U    VMSIntegrations\working\VDIC.Integration.DAL\ConfigDao.cs
+U    VMSIntegrations\working\VDIC.Integration.DAL\App.Dev.config
+U    VMSIntegrations\working\VDIC.Integration.DAL\VDIC.Integration.DAL.csproj
+U    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\Web.QA.config
+U    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\Web.config
+U    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\VMSIntegration.asmx.cs
+D    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\Properties\PublishProfiles\buildMachine-Dev.pubxml
+D    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\Properties\PublishProfiles\buildMachine-Release.pubxml
+D    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\Properties\PublishProfiles\buildMachine-QA.pubxml
+   C VMSIntegrations\working\VDIC.Integration.Banfield.WebService\Properties\PublishProfiles\Roger-QA.pubxml.user
+A    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\Properties\PublishProfiles\buildMachine.pubxml
+   C VMSIntegrations\working\VDIC.Integration.Banfield.WebService\Properties\PublishProfiles\Roger-Dev.pubxml.user
+ U   VMSIntegrations\working\VDIC.Integration.Banfield.WebService\Properties\PublishProfiles
+U    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\Web.Dev.config
+U    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\Web.Release.config
+U    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\VMSTMS.asmx.cs
+U    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\VMSUserNameTokenManager.cs
+U    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\VDIC.Integration.Banfield.WebService.csproj
+U    VMSIntegrations\working\VDIC.Integration.Banfield.WebService\VMSVetconnect.asmx.cs
+U    VMSIntegrations\working\VDIC.Integrations.ImageProcessing.Service\App.config
+U    VMSIntegrations\working\VDIC.Integrations.ImageProcessing.Service\App.QA.config
+U    VMSIntegrations\working\VDIC.Integrations.ImageProcessing.Service\ImageProcessor.cs
+U    VMSIntegrations\working\VDIC.Integrations.ImageProcessing.Service\VMSImageProcessingService.cs
+U    VMSIntegrations\working\VDIC.Integrations.ImageProcessing.Service\App.Dev.config
+U    VMSIntegrations\working\VDIC.Integrations.ImageProcessing.Service\App.Release.config
+U    VMSIntegrations\working\VDIC.Integrations.ImageProcessing.Service\VDIC.Integrations.ImageProcessing.Service.csproj
+D    VMSIntegrations\working\AtD\app.QA.config
+D    VMSIntegrations\working\AtD\uninstallAtDService.bat
+D    VMSIntegrations\working\AtD\app.Dev.config
+D    VMSIntegrations\working\AtD\app.Release.config
+D    VMSIntegrations\working\AtD\app.Debug.config
+U    VMSIntegrations\working\AtD\packages.config
+A    VMSIntegrations\working\AtD\External References
+A    VMSIntegrations\working\AtD\External References\log4net.dll
+U    VMSIntegrations\working\AtD\app.config
+U    VMSIntegrations\working\AtD\AtD.csproj
+U    VMSIntegrations\working\AtD\AtDInstaller.cs
+D    VMSIntegrations\working\AtD\Server Runtime\medical_rebuild.bat
+U    VMSIntegrations\working\AtD\Server Runtime\models\edits.bin
+U    VMSIntegrations\working\AtD\Server Runtime\models\dictionary.txt
+U    VMSIntegrations\working\AtD\Server Runtime\models\network3f.bin
+U    VMSIntegrations\working\AtD\Server Runtime\models\hnetwork2.bin
+U    VMSIntegrations\working\AtD\Server Runtime\models\hnetwork3.bin
+U    VMSIntegrations\working\AtD\Server Runtime\models\hnetwork4.bin
+U    VMSIntegrations\working\AtD\Server Runtime\models\not_misspelled.txt
+U    VMSIntegrations\working\AtD\Server Runtime\models\rules.bin
+U    VMSIntegrations\working\AtD\Server Runtime\models\model.zip
+U    VMSIntegrations\working\AtD\Server Runtime\models\network3p.bin
+U    VMSIntegrations\working\AtD\Server Runtime\models\cnetwork.bin
+U    VMSIntegrations\working\AtD\Server Runtime\models\model.bin
+U    VMSIntegrations\working\AtD\Server Runtime\models\stringpool.bin
+U    VMSIntegrations\working\AtD\Server Runtime\models\hnetwork.bin
+U    VMSIntegrations\working\AtD\Server Runtime\service\src\lang
+U    VMSIntegrations\working\AtD\Server Runtime\service\src\models
+U    VMSIntegrations\working\AtD\Server Runtime\service\src\lib
+U    VMSIntegrations\working\AtD\Server Runtime\service\src\data
+A    VMSIntegrations\working\AtD\Server Runtime\logs
+A    VMSIntegrations\working\AtD\Server Runtime\logs\service.afterthedeadline.com.log
+U    VMSIntegrations\working\AtD\Server Runtime\lib\spellutils.jar
+D    VMSIntegrations\working\AtD\Server Runtime\bin\download.sh
+D    VMSIntegrations\working\AtD\Server Runtime\bin\README.data.txt
+D    VMSIntegrations\working\AtD\Server Runtime\bin\CREDITS.data.txt
+D    VMSIntegrations\working\AtD\Server Runtime\data\tests\tests1.txt
+D    VMSIntegrations\working\AtD\Server Runtime\data\tests\tests2.txt
+D    VMSIntegrations\working\AtD\Server Runtime\data\corpus_medical\enUS_plus_medical.txt
+D    VMSIntegrations\working\AtD\Server Runtime\data\corpus_extra\enUS_plus_medical.txt
+U    VMSIntegrations\working\AtD\Program.cs
+D    VMSIntegrations\working\AtD\Properties\SlowCheetah
+U    VMSIntegrations\working\AtD\Properties\Settings.Designer.cs
+U    VMSIntegrations\working\AtD\AtDService.cs
+D    VMSIntegrations\working\VDIC.Integrations.ImagePorcessing.Service.Tests\TestImages\Oncura.dcm
+U    VMSIntegrations\working\VDIC.Integration.Banfield.Service\ServiceCaller.cs
+U    VMSIntegrations\working\packages\repositories.config
+Updated to revision 10628.
+Summary of conflicts:
+  Tree conflicts: 2
+VMSViewer 
+D    VMSViewer\working\VMSViewer
+A    VMSViewer\working\Web References
+A    VMSViewer\working\Web References\testInbox
+A    VMSViewer\working\Web References\testInbox\Request.datasource
+A    VMSViewer\working\Web References\testInbox\Specie.datasource
+A    VMSViewer\working\Web References\testInbox\Reference.cs
+A    VMSViewer\working\Web References\testInbox\Case.datasource
+A    VMSViewer\working\Web References\testInbox\vmsinbox.disco
+A    VMSViewer\working\Web References\testInbox\ImageInfo.datasource
+A    VMSViewer\working\Web References\testInbox\Inbox.datasource
+A    VMSViewer\working\Web References\testInbox\Breed.datasource
+A    VMSViewer\working\Web References\testInbox\Reference.map
+A    VMSViewer\working\Web References\testInbox\Analysis.datasource
+A    VMSViewer\working\Web References\testInbox\Patient.datasource
+A    VMSViewer\working\Web References\testInbox\vmsinbox.wsdl
+A    VMSViewer\working\Web References\vmsInbox
+A    VMSViewer\working\Web References\vmsInbox\Request.datasource
+A    VMSViewer\working\Web References\vmsInbox\ClientDoctor.datasource
+A    VMSViewer\working\Web References\vmsInbox\Specie1.datasource
+A    VMSViewer\working\Web References\vmsInbox\Case1.datasource
+A    VMSViewer\working\Web References\vmsInbox\DownloaderClient.datasource
+A    VMSViewer\working\Web References\vmsInbox\ImageInfo.datasource
+A    VMSViewer\working\Web References\vmsInbox\Inbox1.datasource
+A    VMSViewer\working\Web References\vmsInbox\DownloaderImage.datasource
+A    VMSViewer\working\Web References\vmsInbox\Breed1.datasource
+A    VMSViewer\working\Web References\vmsInbox\Patient.datasource
+A    VMSViewer\working\Web References\vmsInbox\Analysis1.datasource
+A    VMSViewer\working\Web References\vmsInbox\Specie.datasource
+A    VMSViewer\working\Web References\vmsInbox\Reference.cs
+A    VMSViewer\working\Web References\vmsInbox\Request1.datasource
+A    VMSViewer\working\Web References\vmsInbox\Case.datasource
+A    VMSViewer\working\Web References\vmsInbox\ImageData.datasource
+A    VMSViewer\working\Web References\vmsInbox\vmsinbox.disco
+A    VMSViewer\working\Web References\vmsInbox\Inbox.datasource
+A    VMSViewer\working\Web References\vmsInbox\ImageInfo1.datasource
+A    VMSViewer\working\Web References\vmsInbox\Breed.datasource
+A    VMSViewer\working\Web References\vmsInbox\Reference.map
+A    VMSViewer\working\Web References\vmsInbox\Analysis.datasource
+A    VMSViewer\working\Web References\vmsInbox\vmsinbox.wsdl
+A    VMSViewer\working\Web References\vmsInbox\Patient1.datasource
+A    VMSViewer\working\VMS Viewer_3_TemporaryKey.pfx
+A    VMSViewer\working\Exceptions
+A    VMSViewer\working\Exceptions\CaseBadForViewerException.cs
+A    VMSViewer\working\splash.htm
+A    VMSViewer\working\doc-arrow-right-green.bmp
+A    VMSViewer\working\app.config
+A    VMSViewer\working\app.QA.config
+A    VMSViewer\working\doc-arrow-updown.bmp
+A    VMSViewer\working\Forms
+A    VMSViewer\working\Forms\Viewer.resx
+A    VMSViewer\working\Forms\Mainform.Thread.cs
+A    VMSViewer\working\Forms\DOViewer.Designer.cs
+A    VMSViewer\working\Forms\DOViewer.cs
+A    VMSViewer\working\Forms\InternetExplorer.resx
+A    VMSViewer\working\Forms\PleaseWaitDlg.cs
+A    VMSViewer\working\Forms\ManageCache.resx
+A    VMSViewer\working\Forms\BrokenFileList.resx
+A    VMSViewer\working\Forms\ReorderDlg.Designer.cs
+A    VMSViewer\working\Forms\ApplyFilter.Designer.cs
+A    VMSViewer\working\Forms\ImageInformationType.cs
+A    VMSViewer\working\Forms\LogoutForm.Designer.cs
+A    VMSViewer\working\Forms\Viewer.cs
+A    VMSViewer\working\Forms\PreferencesDlg.resx
+A    VMSViewer\working\Forms\ReorderDlg.resx
+A    VMSViewer\working\Forms\ApplyFilter.resx
+A    VMSViewer\working\Forms\LogoutForm.resx
+A    VMSViewer\working\Forms\InternetExplorer.cs
+A    VMSViewer\working\Forms\ManageCache.Designer.cs
+A    VMSViewer\working\Forms\BrokenFileList.Designer.cs
+A    VMSViewer\working\Forms\ManageCache.cs
+A    VMSViewer\working\Forms\BrokenFileList.cs
+A    VMSViewer\working\Forms\LabelFormType.resx
+A    VMSViewer\working\Forms\Mainform.resx
+A    VMSViewer\working\Forms\Login.resx
+A    VMSViewer\working\Forms\PleaseWaitDlg.Designer.cs
+A    VMSViewer\working\Forms\AboutAssembly.resx
+A    VMSViewer\working\Forms\PreferencesDlg.Designer.cs
+A    VMSViewer\working\Forms\PreferencesDlg.cs
+A    VMSViewer\working\Forms\ReorderDlg.cs
+A    VMSViewer\working\Forms\ApplyFilter.cs
+A    VMSViewer\working\Forms\LogoutForm.cs
+A    VMSViewer\working\Forms\DOViewer.resx
+A    VMSViewer\working\Forms\Viewer.Designer.cs
+A    VMSViewer\working\Forms\LabelFormType.cs
+A    VMSViewer\working\Forms\ImageInformationType.resx
+A    VMSViewer\working\Forms\Mainform.Designer.cs
+A    VMSViewer\working\Forms\Login.Designer.cs
+A    VMSViewer\working\Forms\Mainform.cs
+A    VMSViewer\working\Forms\Login.cs
+A    VMSViewer\working\Forms\InternetExplorer.Designer.cs
+A    VMSViewer\working\Forms\AboutAssembly.Designer.cs
+A    VMSViewer\working\Forms\AboutAssembly.cs
+A    VMSViewer\working\Properties
+A    VMSViewer\working\Properties\AssemblyInfo.cs
+A    VMSViewer\working\Properties\Settings.settings
+A    VMSViewer\working\Properties\Settings.Designer.cs
+A    VMSViewer\working\Properties\app.manifest
+A    VMSViewer\working\Properties\Resources.resx
+A    VMSViewer\working\Properties\Resources.Designer.cs
+A    VMSViewer\working\VMS Viewer_TemporaryKey.pfx
+A    VMSViewer\working\doc-arrow-leftright.bmp
+A    VMSViewer\working\doc-arrow-left-green.bmp
+A    VMSViewer\working\VMSViewer.ico
+A    VMSViewer\working\licenses.licx
+A    VMSViewer\working\logo.gif
+A    VMSViewer\working\Config
+A    VMSViewer\working\Config\QA
+A    VMSViewer\working\Config\QA\app.config
+A    VMSViewer\working\Config\Prod
+A    VMSViewer\working\Config\Prod\app.config
+A    VMSViewer\working\Config\Dev
+A    VMSViewer\working\Config\Dev\app.config
+A    VMSViewer\working\VMS
+A    VMSViewer\working\VMS\VMSBrowserManager.cs
+A    VMSViewer\working\Icons
+A    VMSViewer\working\Icons\RotRight.bmp
+A    VMSViewer\working\Icons\FlipH.bmp
+A    VMSViewer\working\Icons\btnFlatSml.bmp
+A    VMSViewer\working\Icons\viewer-thumbnail-err.bmp
+A    VMSViewer\working\Icons\hand.bmp
+A    VMSViewer\working\Icons\btnDown.bmp
+A    VMSViewer\working\Icons\Acrobat.bmp
+A    VMSViewer\working\Icons\No.bmp
+A    VMSViewer\working\Icons\zoomout.bmp
+A    VMSViewer\working\Icons\btnOver.bmp
+A    VMSViewer\working\Icons\RotLeft.bmp
+A    VMSViewer\working\Icons\btnBackFlat.btn
+A    VMSViewer\working\Icons\FlipV.bmp
+A    VMSViewer\working\Icons\IE7_icons.jpg
+A    VMSViewer\working\Icons\Reset.bmp
+A    VMSViewer\working\Icons\zoom.bmp
+A    VMSViewer\working\Icons\btnDownSml.bmp
+A    VMSViewer\working\Icons\monitor.bmp
+A    VMSViewer\working\Icons\btnFlat.bmp
+A    VMSViewer\working\Icons\ie7.png
+A    VMSViewer\working\Icons\btnOverSml.bmp
+A    VMSViewer\working\Icons\IE.bmp
+A    VMSViewer\working\Icons\Yes.bmp
+A    VMSViewer\working\Icons\measure.bmp
+A    VMSViewer\working\Util
+A    VMSViewer\working\Util\Item.cs
+A    VMSViewer\working\Util\GlobalSettings.cs
+A    VMSViewer\working\Util\DeleteFilesArgs.cs
+A    VMSViewer\working\Util\CaptureScreen.cs
+A    VMSViewer\working\Util\WinStructs.cs
+A    VMSViewer\working\Util\BrightnessContrast.cs
+A    VMSViewer\working\Util\InputBox.cs
+A    VMSViewer\working\Util\Rijndael.cs
+A    VMSViewer\working\Util\VMSBrowserWrapper.cs
+A    VMSViewer\working\packages
+A    VMSViewer\working\packages\repositories.config
+A    VMSViewer\working\packages\.docstates.suo
+A    VMSViewer\working\packages\SlowCheetah.2.5.5
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\SlowCheetah.2.5.5.nupkg
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\tools
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\tools\Microsoft.Web.XmlTransform.dll
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\tools\Install.ps1
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\tools\SlowCheetah.NuGet.template.proj
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\tools\SlowCheetah.Transforms.targets
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\tools\SlowCheetah.Xdt.dll
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\SlowCheetah.2.5.5.nuspec
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\content
+A    VMSViewer\working\packages\SlowCheetah.2.5.5\content\packageRestore.proj
+A    VMSViewer\working\VMS Viewer_2_TemporaryKey.pfx
+A    VMSViewer\working\VMS Viewer_4_TemporaryKey.pfx
+A    VMSViewer\working\VMS Viewer.sln
+A    VMSViewer\working\packages.config
+A    VMSViewer\working\External References
+A    VMSViewer\working\External References\Microsoft.DirectX.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.AdvancedPhotoEffects.xml
+A    VMSViewer\working\External References\Atalasoft.dotImage.WinControls.xml
+A    VMSViewer\working\External References\Atalasoft.dotImage.Lib.dll
+A    VMSViewer\working\External References\MyDICOM.NET.xml
+A    VMSViewer\working\External References\log4net.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.Jpeg2000.xml
+A    VMSViewer\working\External References\Atalasoft.Shared.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.AdvancedPhotoEffects.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.Dicom.xml
+A    VMSViewer\working\External References\Atalasoft.dotImage.WinControls.dll
+A    VMSViewer\working\External References\MyDICOM.NET.dll
+A    VMSViewer\working\External References\DicomObjects.NET.2.0.dll
+A    VMSViewer\working\External References\Speckie32.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.xml
+A    VMSViewer\working\External References\MyDICOM.5.X.NET.lic
+A    VMSViewer\working\External References\Atalasoft.dotImage.Jpeg2000.dll
+A    VMSViewer\working\External References\MyDICOMUtilities.DLL
+A    VMSViewer\working\External References\Atalasoft.dotImage.WinControls.Design.dll
+A    VMSViewer\working\External References\Atalasoft.dotImage.Dicom.dll
+A    VMSViewer\working\External References\Microsoft.DirectX.AudioVideoPlayback.dll
+A    VMSViewer\working\VMS Viewer.csproj
+A    VMSViewer\working\VMS Viewer.csproj.vspscc
+A    VMSViewer\working\DICOM
+A    VMSViewer\working\DICOM\DICOMHelper.cs
+A    VMSViewer\working\DICOM\DICOMPrivateDictionary.cs
+A    VMSViewer\working\DICOM\DICOMDetails.resx
+A    VMSViewer\working\DICOM\DICOMDetails.Designer.cs
+A    VMSViewer\working\DICOM\DICOMDetails.cs
+A    VMSViewer\working\DICOM\DICOMImaging.cs
+A    VMSViewer\working\AssemblyInfo.cs
+A    VMSViewer\working\app.Release.config
+A    VMSViewer\working\Controls
+A    VMSViewer\working\Controls\TransparentLabel.resx
+A    VMSViewer\working\Controls\Toolbar.resx
+A    VMSViewer\working\Controls\VideoButton.resx
+A    VMSViewer\working\Controls\CaseQueue.Designer.cs
+A    VMSViewer\working\Controls\ImageViewer.resx
+A    VMSViewer\working\Controls\CaseQueue.cs
+A    VMSViewer\working\Controls\FlatButton.Designer.cs
+A    VMSViewer\working\Controls\ExpandingThumbnail.cs
+A    VMSViewer\working\Controls\FlatButton.cs
+A    VMSViewer\working\Controls\AquaButton.cs
+A    VMSViewer\working\Controls\FilmStrip.resx
+A    VMSViewer\working\Controls\ColorProgressBar.cs
+A    VMSViewer\working\Controls\FlashButton.cs
+A    VMSViewer\working\Controls\WatchingInboxes.Designer.cs
+A    VMSViewer\working\Controls\WatchingInboxes.cs
+A    VMSViewer\working\Controls\TransparentButton.cs
+A    VMSViewer\working\Controls\Toolbar.Designer.cs
+A    VMSViewer\working\Controls\TransparentLabel.cs
+A    VMSViewer\working\Controls\VideoButton.Designer.cs
+A    VMSViewer\working\Controls\Toolbar.cs
+A    VMSViewer\working\Controls\VideoButton.cs
+A    VMSViewer\working\Controls\OnOffButton.cs
+A    VMSViewer\working\Controls\ImageViewer.Designer.cs
+A    VMSViewer\working\Controls\ImageViewer.cs
+A    VMSViewer\working\Controls\ItemCount.Designer.cs
+A    VMSViewer\working\Controls\PlayVideo.resx
+A    VMSViewer\working\Controls\WebButton.Designer.cs
+A    VMSViewer\working\Controls\ColorTrackBarDesigner.cs
+A    VMSViewer\working\Controls\FilmStrip.cs
+A    VMSViewer\working\Controls\ExpandingThumbnail.Designer.cs
+A    VMSViewer\working\Controls\ItemCount.resx
+A    VMSViewer\working\Controls\WebButton.resx
+A    VMSViewer\working\Controls\RequestStatus
+A    VMSViewer\working\Controls\RequestStatus\Overflowed.png
+A    VMSViewer\working\Controls\RequestStatus\Test.png
+A    VMSViewer\working\Controls\RequestStatus\NoImages.png
+A    VMSViewer\working\Controls\RequestStatus\Stat.png
+A    VMSViewer\working\Controls\ColorTrackBar.cs
+A    VMSViewer\working\Controls\PlayVideo.Designer.cs
+A    VMSViewer\working\Controls\PlayVideo.cs
+A    VMSViewer\working\Controls\CaseQueue.resx
+A    VMSViewer\working\Controls\TransparentButton.Designer.cs
+A    VMSViewer\working\Controls\ExpandingThumbnail.resx
+A    VMSViewer\working\Controls\FlatButton.resx
+A    VMSViewer\working\Controls\AquaButton.resx
+A    VMSViewer\working\Controls\OnOffButton.Designer.cs
+A    VMSViewer\working\Controls\ItemCount.cs
+A    VMSViewer\working\Controls\FilmStrip.Designer.cs
+A    VMSViewer\working\Controls\WatchingInboxes.resx
+A    VMSViewer\working\Controls\ColorProgressBarDesigner.cs
+A    VMSViewer\working\Controls\WebButton.cs
+A    VMSViewer\working\Settings.cs
+A    VMSViewer\working\MyDICOM.5.X.NET.lic
+A    VMSViewer\working\packageRestore.proj
+A    VMSViewer\working\app.TestDebug.config
+A    VMSViewer\working\app.Debug.config
+A    VMSViewer\working\Program.cs
+A    VMSViewer\working\VMS Viewer_1_TemporaryKey.pfx
+ U   VMSViewer\working
+Updated to revision 10628.
+VMSWebServices3 
+D    VMSWebServices3\working\SampleClient2005\app.QA.config
+D    VMSWebServices3\working\SampleClient2005\app.Dev.config
+D    VMSWebServices3\working\SampleClient2005\packages.config
+D    VMSWebServices3\working\SampleClient2005\Service References
+D    VMSWebServices3\working\SampleClient2005\app.Release.config
+D    VMSWebServices3\working\SampleClient2005\app.Debug.config
+D    VMSWebServices3\working\SampleClient2005\Web References\VmsWebServices\Specie1.datasource
+D    VMSWebServices3\working\SampleClient2005\Web References\VmsWebServices\Case1.datasource
+D    VMSWebServices3\working\SampleClient2005\Web References\VmsWebServices\ImageData1.datasource
+D    VMSWebServices3\working\SampleClient2005\Web References\VmsWebServices\Inbox1.datasource
+D    VMSWebServices3\working\SampleClient2005\Web References\VmsWebServices\Breed1.datasource
+D    VMSWebServices3\working\SampleClient2005\Web References\VmsWebServices\Analysis1.datasource
+D    VMSWebServices3\working\SampleClient2005\Web References\VmsWebServices\Request1.datasource
+D    VMSWebServices3\working\SampleClient2005\Web References\VmsWebServices\ClientDoctor1.datasource
+D    VMSWebServices3\working\SampleClient2005\Web References\VmsWebServices\ImageInfo1.datasource
+D    VMSWebServices3\working\SampleClient2005\Web References\VmsWebServices\Patient1.datasource
+U    VMSWebServices3\working\SampleClient2005\app.config
+D    VMSWebServices3\working\SampleClient2005\Properties\SlowCheetah
+U    VMSWebServices3\working\SampleClient2005\TestingForms.csproj
+   C VMSWebServices3\working\SampleClient2005\obj
+ U   VMSWebServices3\working\SampleClient2005
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.Utilities\CascadeCustomSoftware.Vdic.Utilities.csproj
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\dataconfiguration.Release.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\ImageImportingService.cs
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\App.Release.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\dataconfiguration.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\dataconfiguration.Dev.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\App.QA.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\App.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\App.Dev.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\dataconfiguration.QA.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.SoundImageImporter\CascadeCustomSoftware.Vdic.SoundImageImporter2.csproj
+U    VMSWebServices3\working\VdicWebServices Suite.sln
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Dal\dataconfiguration.Release.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Dal\CascadeCustomSoftware.Vdic.WebServices.Dal.csproj
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Bll\ExternalReferences\DicomObjects.NET.2.0.dll
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Bll\CascadeCustomSoftware.Vdic.WebServices.Bll.csproj
+D    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\buildMachine-Dev.pubxml
+D    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\Install common Enterprise Library.bat
+D    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\buildMachine-QA.pubxml
+D    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\buildMachine-Release.pubxml
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\Web.QA.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\dataconfiguration.Release.config
+A    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\buildMachine.pubxml
+D    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\Properties\PublishProfiles
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\Web.Release.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\CascadeCustomSoftware.Vdic.WebServices.Web.csproj
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\Web.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\dataconfiguration.Dev.config
+   C VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\CascadeCustomSoftware.Vdic.WebServices.Web.csproj.user
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\Web.Dev.config
+U    VMSWebServices3\working\CascadeCustomSoftware.Vdic.WebServices.Web\dataconfiguration.QA.config
+U    VMSWebServices3\working\packages\repositories.config
+Updated to revision 10628.
+Summary of conflicts:
+  Tree conflicts: 2
+CommonLibraries 
+DicomServer 
+At revision 12523.
+VetMedStat_rc 
+At revision 12523.
+VMS1 
+At revision 12523.
+VMSAdmin 
+VMSClient 
+At revision 12523.
+VMSDatabase 
+At revision 12523.
+VMSIntegrations 
+At revision 12523.
+VMSViewer 
+D    VMSViewer\working\VMS Viewer.sln
+D    VMSViewer\working\VMS Viewer.csproj
+D    VMSViewer\working\Web References
+D    VMSViewer\working\Important third party key.txt
+D    VMSViewer\working\Exceptions
+D    VMSViewer\working\splash.htm
+D    VMSViewer\working\doc-arrow-right-green.bmp
+D    VMSViewer\working\doc-arrow-updown.bmp
+D    VMSViewer\working\app.config
+D    VMSViewer\working\app.QA.config
+D    VMSViewer\working\Forms
+D    VMSViewer\working\Properties
+D    VMSViewer\working\doc-arrow-leftright.bmp
+D    VMSViewer\working\doc-arrow-left-green.bmp
+D    VMSViewer\working\VMSViewer.ico
+D    VMSViewer\working\licenses.licx
+D    VMSViewer\working\FFMpeg
+D    VMSViewer\working\logo.gif
+D    VMSViewer\working\VMS
+D    VMSViewer\working\Config
+D    VMSViewer\working\Icons
+D    VMSViewer\working\Util
+D    VMSViewer\working\packages
+D    VMSViewer\working\packages.config
+D    VMSViewer\working\External References
+D    VMSViewer\working\VMS Viewer.csproj.vspscc
+D    VMSViewer\working\Diagrams
+D    VMSViewer\working\Pictures
+D    VMSViewer\working\AssemblyInfo.cs
+D    VMSViewer\working\app.Release.config
+D    VMSViewer\working\Controls
+D    VMSViewer\working\Settings.cs
+D    VMSViewer\working\ThawteCert.pfx
+D    VMSViewer\working\packageRestore.proj
+D    VMSViewer\working\app.TestDebug.config
+D    VMSViewer\working\app.Debug.config
+D    VMSViewer\working\Program.cs
+A    VMSViewer\working\VMSViewer
+A    VMSViewer\working\VMSViewer\Web References
+A    VMSViewer\working\VMSViewer\Web References\testInbox
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Request.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Specie.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Reference.cs
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Case.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\vmsinbox.disco
+A    VMSViewer\working\VMSViewer\Web References\testInbox\ImageInfo.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Inbox.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Breed.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Reference.map
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Analysis.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\Patient.datasource
+A    VMSViewer\working\VMSViewer\Web References\testInbox\vmsinbox.wsdl
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Request.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\ClientDoctor.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Specie1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Case1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\DownloaderClient.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\ImageInfo.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Inbox1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\DownloaderImage.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Breed1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Patient.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Analysis1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Specie.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Reference.cs
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Request1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Case.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\ImageData.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\vmsinbox.disco
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Inbox.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\ImageInfo1.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Breed.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Reference.map
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Analysis.datasource
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\vmsinbox.wsdl
+A    VMSViewer\working\VMSViewer\Web References\vmsInbox\Patient1.datasource
+A    VMSViewer\working\VMSViewer\Important third party key.txt
+A    VMSViewer\working\VMSViewer\Exceptions
+A    VMSViewer\working\VMSViewer\Exceptions\CaseBadForViewerException.cs
+A    VMSViewer\working\VMSViewer\splash.htm
+A    VMSViewer\working\VMSViewer\doc-arrow-right-green.bmp
+A    VMSViewer\working\VMSViewer\doc-arrow-updown.bmp
+A    VMSViewer\working\VMSViewer\app.config
+A    VMSViewer\working\VMSViewer\app.QA.config
+A    VMSViewer\working\VMSViewer\Forms
+A    VMSViewer\working\VMSViewer\Forms\Viewer.resx
+A    VMSViewer\working\VMSViewer\Forms\Mainform.Thread.cs
+A    VMSViewer\working\VMSViewer\Forms\AboutBox.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\DOViewer.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\DOViewer.cs
+A    VMSViewer\working\VMSViewer\Forms\InternetExplorer.resx
+A    VMSViewer\working\VMSViewer\Forms\PleaseWaitDlg.cs
+A    VMSViewer\working\VMSViewer\Forms\ManageCache.resx
+A    VMSViewer\working\VMSViewer\Forms\BrokenFileList.resx
+A    VMSViewer\working\VMSViewer\Forms\ReorderDlg.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\ImageInformationType.cs
+A    VMSViewer\working\VMSViewer\Forms\LogoutForm.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\AboutBox.resx
+A    VMSViewer\working\VMSViewer\Forms\Viewer.cs
+A    VMSViewer\working\VMSViewer\Forms\PreferencesDlg.resx
+A    VMSViewer\working\VMSViewer\Forms\ReorderDlg.resx
+A    VMSViewer\working\VMSViewer\Forms\LogoutForm.resx
+A    VMSViewer\working\VMSViewer\Forms\InternetExplorer.cs
+A    VMSViewer\working\VMSViewer\Forms\ManageCache.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\BrokenFileList.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\ManageCache.cs
+A    VMSViewer\working\VMSViewer\Forms\BrokenFileList.cs
+A    VMSViewer\working\VMSViewer\Forms\LabelFormType.resx
+A    VMSViewer\working\VMSViewer\Forms\AboutBox.cs
+A    VMSViewer\working\VMSViewer\Forms\Mainform.resx
+A    VMSViewer\working\VMSViewer\Forms\Login.resx
+A    VMSViewer\working\VMSViewer\Forms\PleaseWaitDlg.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\AboutAssembly.resx
+A    VMSViewer\working\VMSViewer\Forms\PreferencesDlg.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\PreferencesDlg.cs
+A    VMSViewer\working\VMSViewer\Forms\ReorderDlg.cs
+A    VMSViewer\working\VMSViewer\Forms\LogoutForm.cs
+A    VMSViewer\working\VMSViewer\Forms\DOViewer.resx
+A    VMSViewer\working\VMSViewer\Forms\Viewer.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\LabelFormType.cs
+A    VMSViewer\working\VMSViewer\Forms\ImageInformationType.resx
+A    VMSViewer\working\VMSViewer\Forms\Mainform.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\Login.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\Mainform.cs
+A    VMSViewer\working\VMSViewer\Forms\Login.cs
+A    VMSViewer\working\VMSViewer\Forms\InternetExplorer.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\AboutAssembly.Designer.cs
+A    VMSViewer\working\VMSViewer\Forms\AboutAssembly.cs
+A    VMSViewer\working\VMSViewer\Properties
+A    VMSViewer\working\VMSViewer\Properties\AssemblyInfo.cs
+A    VMSViewer\working\VMSViewer\Properties\Settings.settings
+A    VMSViewer\working\VMSViewer\Properties\Settings.Designer.cs
+A    VMSViewer\working\VMSViewer\Properties\app.manifest
+A    VMSViewer\working\VMSViewer\Properties\Resources.resx
+A    VMSViewer\working\VMSViewer\Properties\Resources.Designer.cs
+A    VMSViewer\working\VMSViewer\doc-arrow-leftright.bmp
+A    VMSViewer\working\VMSViewer\doc-arrow-left-green.bmp
+A    VMSViewer\working\VMSViewer\VMSViewer.ico
+A    VMSViewer\working\VMSViewer\licenses.licx
+A    VMSViewer\working\VMSViewer\FFMpeg
+A    VMSViewer\working\VMSViewer\FFMpeg\ffmpeg.exe
+A    VMSViewer\working\VMSViewer\logo.gif
+A    VMSViewer\working\VMSViewer\VMS
+A    VMSViewer\working\VMSViewer\VMS\VMSBrowserManager.cs
+A    VMSViewer\working\VMSViewer\Config
+A    VMSViewer\working\VMSViewer\Config\QA
+A    VMSViewer\working\VMSViewer\Config\QA\app.config
+A    VMSViewer\working\VMSViewer\Config\Prod
+A    VMSViewer\working\VMSViewer\Config\Prod\app.config
+A    VMSViewer\working\VMSViewer\Config\Dev
+A    VMSViewer\working\VMSViewer\Config\Dev\app.config
+A    VMSViewer\working\VMSViewer\Icons
+A    VMSViewer\working\VMSViewer\Icons\viewer-thumbnail-err.bmp
+A    VMSViewer\working\VMSViewer\Icons\button_play_pause_selected.png
+A    VMSViewer\working\VMSViewer\Icons\button_fullscreen_selected.png
+A    VMSViewer\working\VMSViewer\Icons\btnDown.bmp
+A    VMSViewer\working\VMSViewer\Icons\No.bmp
+A    VMSViewer\working\VMSViewer\Icons\zoomout.bmp
+A    VMSViewer\working\VMSViewer\Icons\button_play_selected.png
+A    VMSViewer\working\VMSViewer\Icons\button_play_enabled.png
+A    VMSViewer\working\VMSViewer\Icons\IE7_icons.jpg
+A    VMSViewer\working\VMSViewer\Icons\Reset.bmp
+A    VMSViewer\working\VMSViewer\Icons\button_zoom_in_selected.png
+A    VMSViewer\working\VMSViewer\Icons\button_zoom_out_selected.png
+A    VMSViewer\working\VMSViewer\Icons\button_capture_frame_selected.png
+A    VMSViewer\working\VMSViewer\Icons\button_zoom_out_enabled.png
+A    VMSViewer\working\VMSViewer\Icons\btnDownSml.bmp
+A    VMSViewer\working\VMSViewer\Icons\button_capture_frame_enabled.png
+A    VMSViewer\working\VMSViewer\Icons\video_slider_handle.png
+A    VMSViewer\working\VMSViewer\Icons\ie7.png
+A    VMSViewer\working\VMSViewer\Icons\Yes.bmp
+A    VMSViewer\working\VMSViewer\Icons\FlipH.bmp
+A    VMSViewer\working\VMSViewer\Icons\RotRight.bmp
+A    VMSViewer\working\VMSViewer\Icons\video_slider_track.png
+A    VMSViewer\working\VMSViewer\Icons\btnFlatSml.bmp
+A    VMSViewer\working\VMSViewer\Icons\button_step_forward_selected.png
+A    VMSViewer\working\VMSViewer\Icons\button_step_forward_enabled.png
+A    VMSViewer\working\VMSViewer\Icons\button_window_size_selected.png
+A    VMSViewer\working\VMSViewer\Icons\hand.bmp
+A    VMSViewer\working\VMSViewer\Icons\Acrobat.bmp
+A    VMSViewer\working\VMSViewer\Icons\button_window_size_enabled.png
+A    VMSViewer\working\VMSViewer\Icons\button_play_pause_enabled.png
+A    VMSViewer\working\VMSViewer\Icons\button_fullscreen_enabled.png
+A    VMSViewer\working\VMSViewer\Icons\RotLeft.bmp
+A    VMSViewer\working\VMSViewer\Icons\btnOver.bmp
+A    VMSViewer\working\VMSViewer\Icons\FlipV.bmp
+A    VMSViewer\working\VMSViewer\Icons\btnBackFlat.btn
+A    VMSViewer\working\VMSViewer\Icons\button_step_backward_selected.png
+A    VMSViewer\working\VMSViewer\Icons\button_step_backward_enabled.png
+A    VMSViewer\working\VMSViewer\Icons\zoom.bmp
+A    VMSViewer\working\VMSViewer\Icons\button_zoom_in_enabled.png
+A    VMSViewer\working\VMSViewer\Icons\button_pause_selected.png
+A    VMSViewer\working\VMSViewer\Icons\monitor.bmp
+A    VMSViewer\working\VMSViewer\Icons\button_pause_enabled.png
+A    VMSViewer\working\VMSViewer\Icons\button_fast_forward_selected.png
+A    VMSViewer\working\VMSViewer\Icons\btnFlat.bmp
+A    VMSViewer\working\VMSViewer\Icons\btnOverSml.bmp
+A    VMSViewer\working\VMSViewer\Icons\button_fast_forward_enabled.png
+A    VMSViewer\working\VMSViewer\Icons\IE.bmp
+A    VMSViewer\working\VMSViewer\Icons\button_stop_selected.png
+A    VMSViewer\working\VMSViewer\Icons\button_stop_enabled.png
+A    VMSViewer\working\VMSViewer\Icons\measure.bmp
+A    VMSViewer\working\VMSViewer\Util
+A    VMSViewer\working\VMSViewer\Util\Item.cs
+A    VMSViewer\working\VMSViewer\Util\GlobalSettings.cs
+A    VMSViewer\working\VMSViewer\Util\DeleteFilesArgs.cs
+A    VMSViewer\working\VMSViewer\Util\CaptureScreen.cs
+A    VMSViewer\working\VMSViewer\Util\WinStructs.cs
+A    VMSViewer\working\VMSViewer\Util\BrightnessContrast.cs
+A    VMSViewer\working\VMSViewer\Util\InputBox.cs
+A    VMSViewer\working\VMSViewer\Util\Rijndael.cs
+A    VMSViewer\working\VMSViewer\Util\VMSBrowserWrapper.cs
+A    VMSViewer\working\VMSViewer\packages
+A    VMSViewer\working\VMSViewer\packages\repositories.config
+A    VMSViewer\working\VMSViewer\packages\.docstates.suo
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\SlowCheetah.2.5.5.nupkg
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\tools
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\tools\Microsoft.Web.XmlTransform.dll
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\tools\Install.ps1
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\tools\SlowCheetah.NuGet.template.proj
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\tools\SlowCheetah.Transforms.targets
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\tools\SlowCheetah.Xdt.dll
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\SlowCheetah.2.5.5.nuspec
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\content
+A    VMSViewer\working\VMSViewer\packages\SlowCheetah.2.5.5\content\packageRestore.proj
+A    VMSViewer\working\VMSViewer\VMS Viewer.sln
+A    VMSViewer\working\VMSViewer\packages.config
+A    VMSViewer\working\VMSViewer\External References
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.dll
+A    VMSViewer\working\VMSViewer\External References\Microsoft.DirectX.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.AdvancedPhotoEffects.xml
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.WinControls.xml
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.Lib.dll
+A    VMSViewer\working\VMSViewer\External References\log4net.dll
+A    VMSViewer\working\VMSViewer\External References\AxInterop.AcroPDFLib.dll
+A    VMSViewer\working\VMSViewer\External References\DicomObjects.NET.6.40.dll
+A    VMSViewer\working\VMSViewer\External References\BouncyCastle.6.40.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.Jpeg2000.xml
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.Shared.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.AdvancedPhotoEffects.dll
+A    VMSViewer\working\VMSViewer\External References\Interop.AcroPDFLib.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.Dicom.xml
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.WinControls.dll
+A    VMSViewer\working\VMSViewer\External References\Speckie32.dll
+A    VMSViewer\working\VMSViewer\External References\Interop.SpeckieLib.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.xml
+A    VMSViewer\working\VMSViewer\External References\DicomObjects.NET.6.40.XmlSerializers.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.Jpeg2000.dll
+A    VMSViewer\working\VMSViewer\External References\Security.6.40.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.WinControls.Design.dll
+A    VMSViewer\working\VMSViewer\External References\Atalasoft.dotImage.Dicom.dll
+A    VMSViewer\working\VMSViewer\External References\NReco.VideoConverter.dll
+A    VMSViewer\working\VMSViewer\External References\Microsoft.DirectX.AudioVideoPlayback.dll
+A    VMSViewer\working\VMSViewer\VMS Viewer.csproj.vspscc
+A    VMSViewer\working\VMSViewer\VMS Viewer.csproj
+A    VMSViewer\working\VMSViewer\Diagrams
+A    VMSViewer\working\VMSViewer\Diagrams\ItemClass.cd
+A    VMSViewer\working\VMSViewer\Pictures
+A    VMSViewer\working\VMSViewer\Pictures\idx-background-headerLogin.png
+A    VMSViewer\working\VMSViewer\AssemblyInfo.cs
+A    VMSViewer\working\VMSViewer\app.Release.config
+A    VMSViewer\working\VMSViewer\Controls
+A    VMSViewer\working\VMSViewer\Controls\TransparentLabel.resx
+A    VMSViewer\working\VMSViewer\Controls\Toolbar.resx
+A    VMSViewer\working\VMSViewer\Controls\VideoButton.resx
+A    VMSViewer\working\VMSViewer\Controls\CaseQueue.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ImageViewer.resx
+A    VMSViewer\working\VMSViewer\Controls\CaseQueue.cs
+A    VMSViewer\working\VMSViewer\Controls\FlatButton.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ExpandingThumbnail.cs
+A    VMSViewer\working\VMSViewer\Controls\FlatButton.cs
+A    VMSViewer\working\VMSViewer\Controls\AquaButton.cs
+A    VMSViewer\working\VMSViewer\Controls\FilmStrip.resx
+A    VMSViewer\working\VMSViewer\Controls\ColorProgressBar.cs
+A    VMSViewer\working\VMSViewer\Controls\FlashButton.cs
+A    VMSViewer\working\VMSViewer\Controls\WatchingInboxes.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\WatchingInboxes.cs
+A    VMSViewer\working\VMSViewer\Controls\TransparentButton.cs
+A    VMSViewer\working\VMSViewer\Controls\Toolbar.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\TransparentLabel.cs
+A    VMSViewer\working\VMSViewer\Controls\VideoButton.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\Toolbar.cs
+A    VMSViewer\working\VMSViewer\Controls\VideoButton.cs
+A    VMSViewer\working\VMSViewer\Controls\OnOffButton.cs
+A    VMSViewer\working\VMSViewer\Controls\ImageViewer.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ImageViewer.cs
+A    VMSViewer\working\VMSViewer\Controls\ItemCount.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\PlayVideo.resx
+A    VMSViewer\working\VMSViewer\Controls\WebButton.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ColorTrackBarDesigner.cs
+A    VMSViewer\working\VMSViewer\Controls\FilmStrip.cs
+A    VMSViewer\working\VMSViewer\Controls\ExpandingThumbnail.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ItemCount.resx
+A    VMSViewer\working\VMSViewer\Controls\WebButton.resx
+A    VMSViewer\working\VMSViewer\Controls\RequestStatus
+A    VMSViewer\working\VMSViewer\Controls\RequestStatus\Overflowed.png
+A    VMSViewer\working\VMSViewer\Controls\RequestStatus\Test.png
+A    VMSViewer\working\VMSViewer\Controls\RequestStatus\NoImages.png
+A    VMSViewer\working\VMSViewer\Controls\RequestStatus\Stat.png
+A    VMSViewer\working\VMSViewer\Controls\ColorTrackBar.cs
+A    VMSViewer\working\VMSViewer\Controls\PlayVideo.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\PlayVideo.cs
+A    VMSViewer\working\VMSViewer\Controls\CaseQueue.resx
+A    VMSViewer\working\VMSViewer\Controls\TransparentButton.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ExpandingThumbnail.resx
+A    VMSViewer\working\VMSViewer\Controls\FlatButton.resx
+A    VMSViewer\working\VMSViewer\Controls\AquaButton.resx
+A    VMSViewer\working\VMSViewer\Controls\OnOffButton.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\ItemCount.cs
+A    VMSViewer\working\VMSViewer\Controls\FilmStrip.Designer.cs
+A    VMSViewer\working\VMSViewer\Controls\WatchingInboxes.resx
+A    VMSViewer\working\VMSViewer\Controls\ColorProgressBarDesigner.cs
+A    VMSViewer\working\VMSViewer\Controls\WebButton.cs
+A    VMSViewer\working\VMSViewer\Settings.cs
+A    VMSViewer\working\VMSViewer\ThawteCert.pfx
+A    VMSViewer\working\VMSViewer\packageRestore.proj
+A    VMSViewer\working\VMSViewer\app.TestDebug.config
+A    VMSViewer\working\VMSViewer\app.Debug.config
+A    VMSViewer\working\VMSViewer\Program.cs
+A    VMSViewer\working\VMSViewer\ClassDiagrams
+A    VMSViewer\working\VMSViewer\ClassDiagrams\ClassDiagrams.cd
+ U   VMSViewer\working
+Updated to revision 12523.
